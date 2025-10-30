@@ -33,9 +33,12 @@ The target column is `secure_label`:
 ---
 
 ## Installation
+# run this in your terminal to install necessary modules - pip install flask flask-cors pandas tqdm joblib requests beautifulsoup4 python-whois scikit-learn
+# if python-whois doesn't works then run - pip install whois 
 
 * Install required Python packages such as pandas, scikit-learn, joblib, requests, BeautifulSoup, python-whois, tldextract, and tqdm
 * The project can be run locally or on Google Colab
+
 
 ---
 
