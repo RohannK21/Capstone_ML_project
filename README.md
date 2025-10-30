@@ -4,12 +4,12 @@ A Python-based Machine Learning project that classifies websites as SAFE or MALI
 Built with a Random Forest model, it enables both dataset generation and real-time prediction through a React-based web interface.
 
 ⚙️ Features :
-🌐 HTTPS & SSL validation
-🕒 Domain age and WHOIS details
-🧩 URL structure & TLD analysis
-🧠 HTML elements (iframes, forms, external links)
-🔑 Keyword detection (login, privacy policy, contact)
-🧾 Security headers: HSTS, CSP, X-Frame-Options, CSP, etc.
+-🌐 HTTPS & SSL validation
+-🕒 Domain age and WHOIS details
+-🧩 URL structure & TLD analysis
+-🧠 HTML elements (iframes, forms, external links)
+-🔑 Keyword detection (login, privacy policy, contact)
+-🧾 Security headers: HSTS, CSP, X-Frame-Options, CSP, etc.
 
 Target column: secure_label
 1 → SAFE
