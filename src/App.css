@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;800&family=Poppins:wght@300;400;600&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Figtree", sans-serif;
+  background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
+  color: #f0f0f0;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Main layout */
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4vh 2rem;
+}
+
+/* Stylish container */
+.container {
+  width: 90vw;
+  max-width: 700px;
+  height: 75vh;
+  padding: 3rem 2rem;
+  border-radius: 24px;
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.4),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+/* Title */
+.webcheck-title {
+  font-family: "Figtree", sans-serif;
+  font-size: 3rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+  color: #ffffff;
+  margin-bottom: 1.5rem;
+}
+
+/* Input */
+input[type="text"] {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.75rem 1rem;
+  border-radius: 12px;
+  border: 1px solid #444;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  outline: none;
+  transition: border 0.3s ease;
+}
+
+input[type="text"]:focus {
+  border-color: #00e0ff;
+}
+
+/* Button */
+#checkButton {
+  width: 180px;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 12px;
+  background: linear-gradient(to right, #007cf0, #00dfd8);
+  color: white;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#checkButton:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(0, 223, 216, 0.6);
+}
+
+#checkButton:disabled {
+  background: #444;
+  cursor: not-allowed;
+}
+
+/* Loader */
+.loader {
+  margin-top: 1rem;
+  width: 32px;
+  height: 32px;
+  border: 4px solid rgba(255, 255, 255, 0.2);
+  border-top: 4px solid #00dfd8;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Result box */
+.status {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  border-radius: 12px;
+  font-size: 1rem;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(6px);
+}
+
+.status.safe {
+  border: 1px solid #00ff88;
+  color: #aaffcc;
+  box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);
+}
+
+.status.danger {
+  border: 1px solid #ff4d4d;
+  color: #ffaaaa;
+  box-shadow: 0 0 20px rgba(255, 77, 77, 0.3);
+}
+
+.highlight {
+  font-weight: bold;
+}
+
+.confidence {
+  font-size: 0.9rem;
+  color: #ccc;
+  margin-top: 0.5rem;
+}
+
+/* Scroll button */
+.scroll-btn {
+  margin-top: 2rem;
+  background: none;
+  border: none;
+  color: #00dfd8;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.scroll-btn:hover {
+  color: #00ffcc;
+}
+
+/* Info section */
+.info-container {
+  margin-top: 10rem;
+  max-width: 1000px;
+  
+  padding: 2rem;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.04);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  color: #ddd;
+  text-align: center;
+}
+
+.info-container h3 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.info-container p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Footer */
+footer {
+  border-top: 2px;
+  border-color: white;
+  margin-top: 4rem;
+  padding: 1rem;
+  font-size: 0.85rem;
+  color: #888;
+  text-align: center;
+  border-top: 1px solid #222;
+}
+.github-link {
+  text-decoration: none;
+  /* border-width: 10px;border-color: #00dfd8; */
+  color: #888;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.github-link:hover {
+  color: #fff;
+}
+.info-container ul {
+  padding-left: 1.5rem; /* ensures bullets are indented */
+  margin-left: 0;
+  text-align: left; /* aligns text inside list items to the left */
+  list-style-position: outside;
+}
