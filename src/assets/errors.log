@@ -1,0 +1,39 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 556-524-013
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 10:57:42] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 556-524-013
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 11:00:13] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 11:00:21] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 11:01:07] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 11:01:13] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 11:02:16] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 11:02:24] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 11:03:21] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 11:03:23] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 11:04:08] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 11:04:14] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ROHAN\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\IPython\\display.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\ROHAN\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\IPython\\core\\display_functions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\ROHAN\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\IPython\\lib\\display.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 556-524-013
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 18:44:35] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 18:44:35] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 18:44:35] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 18:44:35] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py', reloading
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 18:44:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 18:44:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 18:44:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2025 18:44:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)

@@ -1,0 +1,1000 @@
+Website,has_https,ssl_valid,ssl_expiry_days,ssl_issuer,domain_age_days,whois_info_available,organization_name,url_length,num_dots,num_hyphens,has_ip_in_url,num_special_chars,tld_type,num_iframes,num_forms,num_external_links,has_login_keyword,has_privacy_policy,has_contact_page,num_suspicious_keywords,has_hsts_header,has_x_frame_options,has_csp,has_x_content_type_options,secure_label
+https://ucla.edu,1,1,333,Amazon,14787,1,,16,1,0,0,0,edu,1,0,151,0,1,1,0,0,1,0,1,1
+https://netangels.ru,1,1,71,Let's Encrypt,7991,1,"LLP ""Internet-Pro""",20,1,0,0,0,ru,0,1,45,0,0,1,0,0,0,0,0,1
+https://sharepoint.com,1,1,224,Microsoft Corporation,9931,1,Microsoft Corporation,22,1,0,0,0,com,0,0,1,0,0,0,0,1,0,0,0,1
+https://ptt.cc,0,0,0,,8674,1,,14,1,0,0,0,cc,0,0,0,0,0,0,0,0,0,0,0,1
+https://newsweek.com,1,1,289,Amazon,11477,1,Newsweek Magazine LLC,20,1,0,0,0,com,0,1,281,1,1,1,0,1,1,0,1,1
+https://name-services.com,0,0,0,,8894,1,REDACTED FOR PRIVACY,25,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://wbx2.com,0,0,0,,4582,1,Cisco Technology Inc.,16,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://samsungqbe.com,0,0,0,,4119,1,,22,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://doubtnut.com,0,0,0,,3965,1,"Domains By Proxy, LLC",20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://bbc.com,1,1,282,GlobalSign nv-sa,13244,1,REDACTED FOR PRIVACY,15,1,0,0,0,com,0,0,46,1,1,1,2,1,1,0,1,1
+https://justdial.com,1,1,178,DigiCert Inc,10200,1,"Domains By Proxy, LLC",20,1,0,0,0,com,1,0,96,1,0,1,0,1,1,1,0,1
+https://wnacg.com,1,1,53,Let's Encrypt,5005,1,See PrivacyGuardian.org,17,1,0,0,0,com,0,0,2,1,0,0,0,0,0,0,0,1
+https://videq.one,0,0,0,,66,1,Privacy service provided by Withheld for Privacy ehf,17,1,0,0,0,one,0,0,0,0,0,0,0,0,0,0,0,1
+https://premierleague.com,1,1,337,Amazon,10321,1,,25,1,0,0,0,com,0,0,113,1,1,1,0,1,0,0,0,1
+https://cnn.com,1,1,259,GlobalSign nv-sa,11714,1,"Turner Broadcasting System, Inc.",15,1,0,0,0,com,0,3,310,1,1,1,6,0,0,1,1,1
+https://cnnbrasil.com.br,1,1,66,Let's Encrypt,8429,1,,24,2,0,0,0,br,0,2,465,1,0,0,0,0,0,0,1,1
+https://readthedocs.io,1,1,77,Google Trust Services,4143,1,,22,1,0,0,0,io,0,0,42,1,1,0,0,0,0,0,1,1
+https://gvt2.com,0,0,0,,6437,1,Google LLC,16,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://adobe.com,1,1,138,DigiCert Inc,14215,1,Adobe Inc.,17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://doubleverify.com,1,1,87,Let's Encrypt,6635,1,,24,1,0,0,0,com,0,2,16,1,1,1,0,1,0,1,0,1
+https://uol.com.br,1,1,142,DigiCert Inc,10769,1,,18,2,0,0,0,br,0,1,565,1,0,1,0,1,0,1,0,1
+https://google.com.br,1,1,58,Google Trust Services,9650,1,,21,2,0,0,0,br,0,1,32,1,1,0,0,0,1,0,0,1
+https://tsyndicate.com,1,1,54,Let's Encrypt,3145,1,"Domains By Proxy, LLC",22,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://ladepeche.fr,1,1,224,Gandi SAS,9298,1,,20,1,0,0,0,fr,1,4,94,1,0,1,0,1,1,1,0,1
+https://tiktokcdn.com,0,0,0,,2949,1,TIKTOK LTD,21,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://india.com,1,1,32,DigiCert Inc,10293,1,"Domains By Proxy, LLC",17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://pixabay.com,1,1,63,Google Trust Services,5489,1,Canva Pty Ltd,19,1,0,0,0,com,0,0,0,0,0,0,1,0,1,0,1,1
+https://forebet.com,1,1,31,Google Trust Services,5883,1,"Domains By Proxy, LLC",19,1,0,0,0,com,0,0,1,0,0,0,0,0,1,0,0,1
+https://xhaccess.com,1,1,49,Let's Encrypt,1799,1,"Domain Protection Services, Inc.",20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://zdnscloud.cn,0,0,0,,5545,1,,20,1,0,0,0,cn,0,0,0,0,0,0,0,0,0,0,0,1
+https://123tt.ru,0,0,0,,720,1,,16,1,0,0,0,ru,0,0,0,0,0,0,0,0,0,0,0,1
+https://themeforest.net,1,1,74,Google Trust Services,6535,1,"Shutterstock, Inc.",23,1,0,0,0,net,2,21,71,1,1,1,0,1,1,0,1,1
+https://behance.net,1,1,52,Let's Encrypt,7285,1,Adobe Inc.,19,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://seedtag.com,1,1,43,Let's Encrypt,4426,1,Privacy service provided by Withheld for Privacy ehf,19,1,0,0,0,com,0,0,25,1,1,1,12,0,0,0,0,1
+https://mundodeportivo.com,1,1,23,Let's Encrypt,8163,1,"EL MUNDO DEPORTIVO, S.A.",26,1,0,0,0,com,1,2,240,1,1,1,0,0,1,0,0,1
+https://afternic.com,1,1,42,"GoDaddy.com, Inc.",9716,1,"Domains By Proxy, LLC",20,1,0,0,0,com,0,0,37,1,1,1,2,0,0,0,0,1
+https://adrta.com,1,1,293,DigiCert Inc,5231,1,Identity Protection Service,17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://indianbfvideos.com,1,1,43,Google Trust Services,2682,1,DATA REDACTED,26,1,0,0,0,com,0,1,109,1,0,0,19,1,1,0,1,1
+https://twitter.com,1,1,85,Let's Encrypt,9401,1,,19,1,0,0,0,com,0,1,6,1,1,0,4,1,1,1,1,1
+https://croxyproxy.com,1,1,76,Google Trust Services,3172,1,Whois Privacy (enumDNS dba),22,1,0,0,0,com,0,0,0,0,0,0,0,0,1,0,1,1
+https://eroterest.net,0,0,0,,4861,1,"Domains By Proxy, LLC",21,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://springer.com,1,1,40,Let's Encrypt,10369,1,Springer Nature B.V.,20,1,0,0,0,com,1,0,19,0,1,1,0,1,0,0,0,1
+https://gelbooru.com,1,1,55,Google Trust Services,6720,1,Proxy Protection LLC,20,1,0,0,0,com,0,1,1,1,0,0,0,0,1,0,0,1
+https://zoho.com,1,1,369,Sectigo Limited,7945,1,ZOHO Corporation Private Limited,16,1,0,0,0,com,0,0,1,1,1,0,0,1,0,0,1,1
+https://33across.com,1,1,45,Let's Encrypt,6593,1,"Domains By Proxy, LLC",20,1,0,0,0,com,0,0,0,0,0,0,0,0,1,0,1,1
+https://gartner.com,1,1,109,Amazon,11540,1,,19,1,0,0,0,com,0,0,0,0,0,0,0,0,1,0,1,1
+https://huawei.com,0,0,0,,9411,1,华为技术有限公司,18,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://cnbc.com,1,1,129,DigiCert Inc,10245,1,"NBCUniversal Media, LLC",16,1,0,0,0,com,0,1,293,1,1,1,3,0,0,1,0,1
+https://apigee.net,0,0,0,,6055,1,Google LLC,18,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://withgoogle.com,1,1,58,Google Trust Services,6178,1,Google LLC,22,1,0,0,0,com,0,1,32,1,1,0,0,0,1,0,0,1
+https://azure-api.net,0,0,0,,4299,1,,21,1,1,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://pubmatic.com,1,1,64,Amazon,6868,1,"Domains By Proxy, LLC",20,1,0,0,0,com,2,2,24,1,1,1,0,1,1,0,1,1
+https://onet.pl,1,1,191,DigiCert Inc,10710,1,,15,1,0,0,0,pl,2,1,144,1,0,1,0,0,0,0,1,1
+https://creativecommons.org,1,1,53,Google Trust Services,9041,1,,27,1,0,0,0,org,1,1,24,0,1,1,0,0,0,0,0,1
+https://iso.org,0,0,0,,10905,1,,15,1,0,0,0,org,0,0,0,0,0,0,0,0,0,0,0,1
+https://afribaba.com,1,1,63,Google Trust Services,6144,1,TEMGO BI Inc,20,1,0,0,0,com,0,0,0,0,0,0,0,1,1,0,1,1
+https://mediafire.com,1,1,285,Sectigo Limited,8468,1,,21,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://redtube.com,1,1,240,DigiCert Inc,7223,1,Whois Privacy (enumDNS dba),19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://360safe.com,0,0,0,,7094,1,"Domains By Proxy, LLC",19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://tktube.com,1,1,56,Google Trust Services,2313,1,Privacy service provided by Withheld for Privacy ehf,18,1,0,0,0,com,0,0,0,0,0,0,0,0,1,0,1,1
+https://baidu.com,0,0,0,,9503,1,北京百度网讯科技有限公司,17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://messenger.com,1,1,7,DigiCert Inc,9845,1,"Meta Platforms, Inc.",21,1,0,0,0,com,0,1,43,1,1,1,0,1,0,1,1,1
+https://seznam.cz,1,1,60,Let's Encrypt,10603,1,,17,1,0,0,0,cz,0,2,325,1,1,0,0,1,1,1,0,1
+https://coupang.com,1,1,294,Amazon,5626,1,Identity Protection Service,19,1,0,0,0,com,0,0,1,0,0,0,0,1,0,1,0,1
+https://who.int,1,1,81,Google Trust Services,0,0,,15,1,0,0,0,int,1,0,25,1,1,1,0,1,1,1,1,1
+https://admin.ch,1,1,123,DigiCert Inc,0,0,,16,1,0,0,0,ch,0,0,0,0,0,0,0,0,0,0,0,1
+https://markmonitor.com,1,1,213,DigiCert Inc,9675,1,Markmonitor Inc.,23,1,0,0,0,com,0,0,0,0,0,0,0,0,1,0,1,1
+https://reg.ru,1,1,23,GlobalSign nv-sa,7291,1,"Registrator domennih imen REG.RU, LLC",14,1,0,0,0,ru,0,0,0,0,0,0,0,0,0,0,0,1
+https://youporn.com,1,1,206,DigiCert Inc,7259,1,Whois Privacy (enumDNS dba),19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://chinamobile.com,0,0,0,,9542,1,,23,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://simontokx.asia,0,0,0,,261,1,Privacy service provided by Withheld for Privacy ehf,22,1,0,0,0,asia,0,0,0,0,0,0,0,0,0,0,0,1
+https://torob.com,1,1,157,Unizeto Technologies S.A.,7587,1,Registrant of torob.com,17,1,0,0,0,com,0,1,2,1,0,1,0,1,1,0,0,1
+https://google.co.in,1,1,58,Google Trust Services,8152,1,Google LLC,20,2,0,0,0,in,0,1,32,1,1,0,0,0,1,0,0,1
+https://5movierulz.salon,0,0,0,,0,0,,24,1,0,0,0,salon,0,0,0,0,0,0,0,0,0,0,0,1
+https://xn--72c6c2a3an.com,1,1,74,Let's Encrypt,1051,1,"Domains By Proxy, LLC",26,1,2,0,0,com,0,1,5,0,0,1,91,0,0,0,0,1
+https://nic.io,1,1,145,Sectigo Limited,8068,1,,14,1,0,0,0,io,0,2,1,1,1,1,0,0,0,0,0,1
+https://yale.edu,1,1,10,Certainly,14095,1,,16,1,0,0,0,edu,1,6,57,1,1,1,9,1,1,0,1,1
+https://sc-gw.com,0,0,0,,2753,1,DNStination Inc.,17,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://snaptik.app,1,1,39,Google Trust Services,0,0,,19,1,0,0,0,app,0,1,4,0,1,1,0,0,1,0,1,1
+https://discord.gg,1,1,41,Google Trust Services,3886,1,,18,1,0,0,0,gg,0,0,52,1,1,1,0,1,1,1,1,1
+https://edgekey.net,0,0,0,,8780,1,"Akamai Technologies, Inc.",19,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://ixxx.com,1,1,45,Google Trust Services,9888,1,REDACTED FOR PRIVACY,16,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://avsxappcaptiveportal.com,0,0,0,,898,1,"Amazon Technologies, Inc.",32,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://an1.com,1,1,111,Sectigo Limited,9991,1,"Domains By Proxy, LLC",15,1,0,0,0,com,0,1,7,1,1,0,0,1,0,0,0,1
+https://licdn.com,0,0,0,,5349,1,LinkedIn Corporation,17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://vecdnlb.com,0,0,0,,1521,1,,19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://oolveri.com,1,1,37,Google Trust Services,1479,1,DATA REDACTED,19,1,0,0,0,com,1,3,82,1,1,0,16,1,1,0,1,1
+https://senderscore.com,1,1,200,Amazon,7626,1,Identity Protection Service,23,1,0,0,0,com,1,1,17,0,1,1,1,1,0,1,0,1
+https://usercontent.goog,1,1,58,Google Trust Services,0,0,,24,1,0,0,0,goog,0,0,1,0,0,0,0,0,0,0,0,1
+https://gmail.com,1,1,58,Google Trust Services,11024,1,Google LLC,17,1,0,0,0,com,0,2,4,1,1,0,2,1,1,1,1,1
+https://yellowblue.io,0,0,0,,1944,1,,21,1,0,0,0,io,0,0,0,0,0,0,0,0,0,0,0,1
+https://getbootstrap.com,1,1,66,Google Trust Services,5029,1,"Domains By Proxy, LLC",24,1,0,0,0,com,0,0,26,0,0,1,0,1,0,0,1,1
+https://pbs.org,1,1,76,Let's Encrypt,11140,1,,15,1,0,0,0,org,0,2,57,1,1,1,0,0,0,1,0,1
+https://bb2r.com,1,1,46,Google Trust Services,0,0,,16,1,0,0,0,com,0,0,1,0,1,1,0,0,0,0,0,1
+https://xxxbfvideos.to,1,1,62,Google Trust Services,560,1,Redacted for Privacy Purposes,22,1,0,0,0,to,0,0,0,0,0,0,1,1,1,0,1,1
+https://a-mo.net,1,1,385,Amazon,2961,1,,16,1,1,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://tiktokv.us,0,0,0,,913,1,,18,1,0,0,0,us,0,0,0,0,0,0,0,0,0,0,0,1
+https://kunlungr.com,0,0,0,,4103,1,,20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://fiverr.com,1,1,78,Google Trust Services,5792,1,"Domains By Proxy, LLC",18,1,0,0,0,com,0,3,60,1,1,1,17,1,0,0,0,1
+https://statista.com,1,1,265,Amazon,7233,1,Statista GmbH,20,1,0,0,0,com,1,4,39,1,1,1,16,1,1,1,1,1
+https://bookmyshow.com,1,1,265,Entrust Limited,6813,1,"Domains By Proxy, LLC",22,1,0,0,0,com,0,0,1,0,0,0,0,1,1,0,1,1
+https://sina.com.cn,1,1,76,DigiCert Inc,9829,1,,19,2,0,0,0,cn,0,0,0,0,0,0,0,0,0,0,0,1
+https://namasha.com,1,1,239,Sectigo Limited,4073,1,"Whois Privacy Protection Service, Inc.",19,1,0,0,0,com,0,2,110,1,1,1,0,0,0,0,0,1
+https://suumo.jp,1,1,173,"DigiCert, Inc.",1660,1,,16,1,0,0,0,jp,0,8,51,1,0,0,6,1,0,0,0,1
+https://foggymorningmist.com,0,0,0,,316,1,"Domains By Proxy, LLC",28,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://ggpht.com,0,0,0,,6484,1,Google LLC,17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://merkur.de,1,1,66,Let's Encrypt,0,0,,17,1,0,0,0,de,1,1,250,1,0,1,1,0,0,0,0,1
+https://youjizz.com,1,1,80,Sectigo Limited,6570,1,Whois Privacy (enumDNS dba),19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://akamaihd.net,0,0,0,,5877,1,"Akamai Technologies, Inc.",20,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://smilewanted.com,1,1,71,Google Trust Services,3665,1,,23,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://bt.dk,1,1,361,Amazon,10204,1,,13,1,0,0,0,dk,0,0,0,0,0,1,0,1,0,0,0,1
+https://safety.google,1,1,58,Google Trust Services,0,0,,21,1,0,0,0,google,1,0,14,1,1,0,6,0,0,1,1,1
+https://cdc.gov,1,1,213,DigiCert Inc,10243,1,REDACTED FOR PRIVACY,15,1,0,0,0,gov,0,3,148,1,1,1,4,1,0,0,0,1
+https://binance.com,1,1,87,DigiCert Inc,3121,1,DNStination Inc.,19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://vivo.com.cn,1,1,259,"DigiCert, Inc.",5742,1,,19,2,0,0,0,cn,0,0,206,1,1,1,3,0,0,0,0,1
+https://lijit.com,1,1,99,Amazon,7028,1,"Domains By Proxy, LLC",17,1,0,0,0,com,0,0,3,0,0,1,0,0,0,0,0,1
+https://mangabuff.ru,1,1,51,Let's Encrypt,981,1,,20,1,0,0,0,ru,0,0,0,0,0,1,0,0,0,0,0,1
+https://24h.com.vn,1,1,29,GlobalSign nv-sa,0,0,,18,2,0,0,0,vn,0,0,360,1,0,0,0,0,0,0,0,1
+https://1c.ru,1,1,189,GlobalSign nv-sa,10566,1,"""1C"" LLC",13,1,0,0,0,ru,0,0,65,0,0,0,0,1,1,1,0,1
+https://goskope.com,0,0,0,,4771,1,"Domain Protection Services, Inc.",19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://syosetu.com,1,1,368,"Cybertrust Japan Co., Ltd.",7091,1,REDACTED FOR PRIVACY,19,1,0,0,0,com,0,1,419,1,1,0,0,0,1,0,0,1
+https://bytefcdn-ttpeu.com,0,0,0,,940,1,Lemon Inc,26,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://gekso.xyz,1,1,80,Google Trust Services,2716,1,Whois Privacy Corp.,17,1,0,0,0,xyz,0,1,0,0,0,0,38,1,0,0,1,1
+https://psiphon.news,1,1,36,Google Trust Services,0,0,,20,1,0,0,0,news,0,0,1,0,1,0,0,0,0,0,0,1
+https://fc2.com,1,1,263,DigiCert Inc,9648,1,,15,1,0,0,0,com,2,0,34,1,1,1,3,0,1,1,1,1
+https://snapchat.com,1,1,271,DigiCert Inc,4980,1,DNStination Inc.,20,1,0,0,0,com,0,0,44,1,1,0,0,1,1,1,0,1
+https://firefox.com,1,1,56,Let's Encrypt,9874,1,Mozilla Corporation,19,1,0,0,0,com,0,0,31,0,1,0,0,1,1,1,1,1
+https://conectate.com.do,1,1,79,Google Trust Services,5955,1,,24,2,0,0,0,do,0,1,122,0,0,1,0,0,1,0,0,1
+https://tbank.ru,1,1,224,GlobalSign nv-sa,2171,1,AO TBank,16,1,0,0,0,ru,1,0,43,1,1,1,0,0,0,1,0,1
+https://rexporn.sex,1,1,32,Google Trust Services,1552,1,"['N/A', 'REDACTED FOR PRIVACY']",19,1,0,0,0,sex,0,1,67,1,0,0,4,0,0,0,0,1
+https://pinimg.com,1,1,309,DigiCert Inc,5621,1,DNStination Inc.,18,1,0,0,0,com,0,0,1,1,1,1,0,1,1,1,1,1
+https://geobasket.ru,0,0,0,,723,1,"LLC ""RWB""",20,1,0,0,0,ru,0,0,0,0,0,0,0,0,0,0,0,1
+https://yahoodns.net,0,0,0,,6114,1,Yahoo Assets LLC,20,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://nist.gov,1,1,52,Let's Encrypt,10243,1,REDACTED FOR PRIVACY,16,1,0,0,0,gov,2,1,32,1,1,1,9,1,1,1,1,1
+https://googletagservices.com,0,0,0,,6148,1,Google LLC,29,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://elconfidencial.com,1,1,127,GlobalSign nv-sa,9159,1,,26,1,0,0,0,com,2,1,407,1,1,0,0,1,1,1,1,1
+https://sattamatkano1.me,1,1,85,Let's Encrypt,835,1,,24,1,0,0,0,me,0,0,0,0,0,1,0,0,0,0,0,1
+https://testbook.com,1,1,91,Sectigo Limited,7953,1,"Domain Protection Services, Inc.",20,1,0,0,0,com,2,1,22,1,1,1,0,0,1,0,0,1
+https://yieldmo.com,1,1,87,Let's Encrypt,4882,1,"Yieldmo, Inc.",19,1,0,0,0,com,1,0,3,1,1,1,0,0,0,0,0,1
+https://imgsmail.ru,1,1,164,GlobalSign nv-sa,6175,1,OBShchESTVO S OGRANIChENNOY OTVETSTVENNOSTU VK,19,1,0,0,0,ru,0,0,0,1,0,0,0,0,1,1,1,1
+https://hitomi.la,1,1,61,Let's Encrypt,4019,1,,17,1,0,0,0,la,0,0,0,0,0,0,0,0,0,0,0,1
+https://alphonso.tv,1,1,49,Let's Encrypt,4764,1,"['Alphonso Inc', 'REDACTED FOR PRIVACY']",19,1,0,0,0,tv,0,0,3,1,1,1,0,1,0,0,0,1
+https://adjust.com,1,1,174,DigiCert Inc,10979,1,,18,1,0,0,0,com,0,0,12,1,1,1,0,1,1,0,0,1
+https://playtime.com.ph,1,1,45,Let's Encrypt,0,0,,23,2,0,0,0,ph,0,0,1,0,0,0,0,0,1,0,0,1
+https://aternos.org,1,1,78,Google Trust Services,4434,1,Aternos GmbH,19,1,0,0,0,org,0,0,0,0,0,0,0,1,1,0,1,1
+https://bytefcdn.com,0,0,0,,2304,1,,20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://nease.net,0,0,0,,10331,1,广州网易计算机系统有限公司,17,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://hostgator.com,1,1,47,Google Trust Services,8396,1,REDACTED FOR PRIVACY,21,1,0,0,0,com,0,0,0,1,0,1,4,0,1,0,1,1
+https://ntp.br,1,1,48,Let's Encrypt,6904,1,,14,1,0,0,0,br,3,0,42,0,0,0,0,1,0,0,0,1
+https://shein.com,1,1,156,"DigiCert, Inc.",10137,1,,17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://goodreturns.in,1,1,36,Google Trust Services,5211,1,Greynium Information Technologies Pvt Ltd,22,1,0,0,0,in,0,0,1,0,0,0,0,1,1,0,0,1
+https://ctmail.com,0,0,0,,9932,1,REDACTED FOR PRIVACY,18,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://xhcdn.com,1,1,71,Let's Encrypt,5294,1,,17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://cnet.com,1,1,82,Let's Encrypt,11550,1,,16,1,0,0,0,com,0,1,29,1,1,1,148,1,0,0,0,1
+https://taktube.net,1,1,80,Let's Encrypt,1508,1,Privacy service provided by Withheld for Privacy ehf,19,1,0,0,0,net,0,4,101,1,0,0,0,1,1,0,1,1
+https://lichess.org,1,1,77,Let's Encrypt,5604,1,,19,1,0,0,0,org,0,1,1,1,1,1,0,1,1,0,0,1
+https://typeform.com,1,1,282,Amazon,8520,1,Identity Protection Service,20,1,0,0,0,com,1,0,43,1,0,1,0,0,0,0,0,1
+https://letsencrypt.org,1,1,51,Let's Encrypt,4120,1,,23,1,0,0,0,org,1,0,97,0,1,1,0,1,1,1,1,1
+https://gofundme.com,1,1,340,Amazon,5748,1,"Domains By Proxy, LLC",20,1,0,0,0,com,0,0,14,1,1,1,19,1,0,0,0,1
+https://datadoghq.com,1,1,257,DigiCert Inc,5579,1,Redacted for Privacy Purposes,21,1,0,0,0,com,2,1,451,1,1,1,0,1,1,1,1,1
+https://latimes.com,1,1,252,Amazon,12729,1,NantMedia Holdings LLC,19,1,0,0,0,com,0,2,832,1,1,1,3,1,1,1,0,1
+https://ui-dns.com,0,0,0,,5453,1,1&1 Internet AG,18,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://avast.com,1,1,178,DigiCert Inc,10239,1,"Gen Digital, Inc",17,1,0,0,0,com,0,0,93,1,1,1,0,1,1,0,1,1
+https://marca.com,1,1,178,Sectigo Limited,10447,1,"UNIDAD EDITORIAL INFORMACION DEPORTIVA, S.L.U",17,1,0,0,0,com,0,1,582,1,1,1,0,0,0,0,0,1
+https://hilton.com,1,1,345,DigiCert Inc,11287,1,Hilton International Holding LLC,18,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://theguardian.com,1,1,386,GlobalSign nv-sa,11427,1,"Domains By Proxy, LLC",23,1,0,0,0,com,0,2,54,1,1,1,4,1,1,1,1,1
+https://epfindia.gov.in,0,0,0,,7962,1,Employees' Provident Fund Organisation,23,2,0,0,0,in,0,0,78,1,1,1,1,0,1,0,0,1
+https://nginx.org,1,1,7,Let's Encrypt,7603,1,,17,1,0,0,0,org,0,0,15,0,0,0,0,1,0,0,0,1
+https://xn--72cz9dvb1cxc.net,1,1,60,Let's Encrypt,206,1,"Domain Protection Services, Inc.",28,1,2,0,0,net,0,2,2,0,0,0,128,0,0,0,0,1
+https://weather.com,1,1,119,DigiCert Inc,11393,1,,19,1,0,0,0,com,0,2,13,1,1,1,13,1,1,0,1,1
+https://booking.com,1,1,91,DigiCert Inc,10046,1,Booking.com B.V.,19,1,0,0,0,com,1,1,218,1,1,1,85,1,0,0,1,1
+https://zenlogic.net,0,0,0,,4750,1,"Domains By Proxy, LLC",20,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://wiley.com,1,1,35,DigiCert Inc,11329,1,"John Wiley & Sons, Inc",17,1,0,0,0,com,0,1,140,1,1,1,2,1,1,0,1,1
+https://anwap.today,0,0,0,,0,0,,19,1,0,0,0,today,0,0,0,0,0,0,0,0,0,0,0,1
+https://ukdevilz.com,0,0,0,,2923,1,Statutory Masking for data privacy,20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://rncdn7.com,0,0,0,,3783,1,REDACTED FOR PRIVACY,18,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://xfinity.com,1,1,173,COMODO CA Limited,8304,1,,19,1,0,0,0,com,0,0,0,0,0,0,0,1,0,0,0,1
+https://xiaomi.com,1,1,72,"DigiCert, Inc.",8124,1,Xiaomi inc.,18,1,0,0,0,com,2,0,127,0,1,0,0,0,1,1,0,1
+https://lgtvcommon.com,0,0,0,,2794,1,LG Electronics Inc.,22,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://betweendigital.com,1,1,108,Sectigo Limited,4847,1,,26,1,0,0,0,com,1,0,0,0,0,0,0,0,0,1,0,1
+https://gazzetta.it,1,1,60,Let's Encrypt,10855,1,,19,1,0,0,0,it,1,4,580,1,1,0,2,0,0,0,0,1
+https://pandora.com,1,1,156,DigiCert Inc,11617,1,"Pandora Media, LLC",19,1,0,0,0,com,0,0,7,1,1,1,0,1,0,0,0,1
+https://ultimate-guitar.com,1,1,44,Google Trust Services,9501,1,,27,1,1,0,0,com,0,0,0,0,0,0,0,0,1,0,1,1
+https://att.net,1,1,178,DigiCert Inc,11632,1,,15,1,0,0,0,net,0,2,475,1,1,0,8,1,1,1,1,1
+https://exelator.com,1,1,274,GlobalSign nv-sa,6861,1,The Nielsen Company,20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://tjsp.jus.br,1,1,329,Valid Certificadora Digital LTDA,6421,1,,19,2,0,0,0,br,4,0,84,1,0,0,0,0,0,0,0,1
+https://akadns.net,0,0,0,,9655,1,"Akamai Technologies, Inc.",18,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://mp4moviez.holiday,0,0,0,,0,0,,25,1,0,0,0,holiday,0,0,0,0,0,0,0,0,0,0,0,1
+https://xvideos2.com,0,0,0,,6499,1,Moniker Privacy Services,20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://canva.com,1,1,83,Google Trust Services,8932,1,Canva Pty. Ltd.,17,1,0,0,0,com,0,0,1,0,0,0,12,1,1,0,1,1
+https://game8.jp,1,1,306,Amazon,4432,1,,16,1,0,0,0,jp,1,0,9,0,1,1,0,0,1,0,1,1
+https://byteoversea.com,0,0,0,,2949,1,Lemon Inc,23,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://fatalmodel.com,1,1,83,Google Trust Services,3570,1,Atlas Technologies,22,1,0,0,0,com,0,0,0,0,0,0,0,1,1,0,1,1
+https://mega.nz,1,1,27,Let's Encrypt,4035,1,,15,1,0,0,0,nz,1,0,0,0,1,0,0,1,1,1,0,1
+https://okxxx1.com,1,1,77,Google Trust Services,2040,1,Deltatraf Limited,18,1,0,0,0,com,2,1,36,1,1,1,283,0,1,0,0,1
+https://xhamster19.com,1,1,56,Let's Encrypt,2149,1,"Domain Protection Services, Inc.",22,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://vivox.com,1,1,108,DigiCert Inc,8309,1,Unity Technologies SF,17,1,0,0,0,com,0,0,36,1,1,1,0,1,0,0,0,1
+https://google.it,1,1,58,Google Trust Services,9444,1,,17,1,0,0,0,it,0,1,32,1,1,0,0,0,1,0,0,1
+https://cookielaw.org,1,1,72,Google Trust Services,5233,1,Privacy service provided by Withheld for Privacy ehf,21,1,0,0,0,org,0,0,0,0,0,0,0,1,1,0,1,1
+https://russianpost.ru,0,0,0,,9122,1,JSC Russian Post,22,1,0,0,0,ru,0,0,0,0,0,0,0,0,0,0,0,1
+https://adobe.net,0,0,0,,10456,1,Adobe Inc.,17,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://chaturbate.com,1,1,338,DigiCert Inc,5348,1,DATA REDACTED,22,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://amazonaws.com,0,0,0,,7366,1,"Amazon.com, Inc.",21,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://fantia.jp,1,1,288,Nijimo K.K.,3475,1,,17,1,0,0,0,jp,1,4,27,1,1,0,1,1,1,0,1,1
+https://tamildhool.net,0,0,0,,2919,1,Privacy service provided by Withheld for Privacy ehf,22,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://sondakika.com,1,1,53,Google Trust Services,9415,1,Moniker Privacy Services,21,1,0,0,0,com,0,1,110,1,0,0,0,0,0,0,0,1
+https://spaceweb.pro,0,0,0,,0,0,,20,1,0,0,0,pro,0,0,0,0,0,0,0,0,0,0,0,1
+https://beget.com,1,1,71,Let's Encrypt,9424,1,BEGET LLC,17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://vlr.gg,1,1,80,Let's Encrypt,2051,1,,14,1,0,0,0,gg,0,1,19,1,1,1,0,0,0,0,0,1
+https://wp.com,1,1,77,Let's Encrypt,10431,1,"Automattic, Inc.",14,1,0,0,0,com,0,1,156,1,1,1,0,1,1,0,1,1
+https://ipinfo.io,1,1,59,Let's Encrypt,4560,1,,17,1,0,0,0,io,0,1,20,1,1,1,0,1,1,0,1,1
+https://lencr.org,1,1,51,Let's Encrypt,1936,1,,17,1,0,0,0,org,1,0,16,0,1,1,0,1,1,1,1,1
+https://mangaraw.ac,1,1,83,Let's Encrypt,616,1,1337 Services LLC,19,1,0,0,0,ac,0,1,0,0,0,1,0,0,0,0,0,1
+https://tvn24.pl,1,1,375,Amazon,9172,1,,16,1,0,0,0,pl,0,0,0,0,0,0,0,1,1,1,1,1
+https://samsungapps.com,1,1,129,Sectigo Limited,5986,1,"Samsung Electronics CO., Ltd",23,1,0,0,0,com,0,0,0,0,0,0,0,0,1,0,0,1
+https://gree-apps.net,0,0,0,,4979,1,"GREE, Inc.",21,1,1,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://varzesh3.com,1,1,269,Unizeto Technologies S.A.,5373,1,,20,1,0,0,0,com,1,1,792,0,0,1,0,1,1,1,1,1
+https://desitelugusex.com,1,1,78,Google Trust Services,1843,1,Super Privacy Service LTD c/o Dynadot,25,1,0,0,0,com,0,1,52,0,1,0,28,0,1,0,0,1
+https://fastcompany.com,1,1,315,GlobalSign nv-sa,11096,1,,23,1,0,0,0,com,0,0,0,0,0,0,0,0,1,1,0,1
+https://apdcdn.com,0,0,0,,2888,1,深圳市腾讯计算机系统有限公司,18,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://blacktoon388.com,1,1,73,Google Trust Services,101,1,,24,1,0,0,0,com,0,0,1,0,0,0,0,0,1,0,0,1
+https://discordapp.com,1,1,50,Google Trust Services,3886,1,DATA REDACTED,22,1,0,0,0,com,0,0,52,1,1,1,0,1,1,1,1,1
+https://azet.sk,1,1,178,Sectigo Limited,8192,1,,15,1,0,0,0,sk,0,0,122,1,1,1,2,0,1,0,0,1
+https://kaspersky-labs.com,0,0,0,,9531,1,Joint Stock Company Kaspersky Lab,26,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://incapdns.net,0,0,0,,5559,1,Imperva Inc.,20,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://alura.com.br,1,1,36,Google Trust Services,4532,1,,20,2,0,0,0,br,1,2,81,1,0,1,0,0,0,0,0,1
+https://n-tv.de,1,1,68,Amazon,0,0,,15,1,1,0,0,de,9,2,1025,1,1,0,10,1,0,1,1,1
+https://mail.ru,1,1,14,GlobalSign nv-sa,10247,1,OBShchESTVO S OGRANIChENNOY OTVETSTVENNOSTU VK,15,1,0,0,0,ru,0,2,154,1,0,0,0,0,1,1,1,1
+https://sportybet.com,1,1,105,Amazon,8297,1,,21,1,0,0,0,com,1,0,1,1,1,1,1,1,1,0,1,1
+https://amazon.fr,1,1,241,Amazon,6393,1,,17,1,0,0,0,fr,0,1,2,0,1,1,0,1,0,0,0,1
+https://blueapron.com,1,1,127,DigiCert Inc,8564,1,"Blue Apron, LLC",21,1,0,0,0,com,0,0,0,0,0,0,0,0,1,0,1,1
+https://wordpress.org,1,1,70,Let's Encrypt,8240,1,,21,1,0,0,0,org,1,1,31,1,1,0,0,1,1,0,0,1
+https://mit.edu,1,1,194,DigiCert Inc,14758,1,,15,1,0,0,0,edu,1,1,32,0,1,1,0,0,1,1,0,1
+https://clever.com,1,1,238,Amazon,11181,1,"Domain Protection Services, Inc.",18,1,0,0,0,com,1,0,161,1,1,1,2,0,0,0,0,1
+https://algolia.net,1,1,117,Sectigo Limited,4926,1,REDACTED FOR PRIVACY,19,1,0,0,0,net,0,0,0,0,0,0,0,1,0,0,1,1
+https://ru.com,0,0,0,,10848,1,,14,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://fontawesome.com,1,1,34,Google Trust Services,4747,1,Privacy service provided by Withheld for Privacy ehf,23,1,0,0,0,com,0,0,0,0,0,0,0,1,1,0,1,1
+https://time.com,1,1,20,Certainly,11656,1,"Time USA, LLC",16,1,0,0,0,com,0,1,16,1,1,1,25,0,0,0,0,1
+https://app-measurement.com,1,1,58,Google Trust Services,3773,1,Google LLC,27,1,1,0,0,com,0,0,1,0,0,0,0,0,0,0,1,1
+https://msidentity.com,0,0,0,,3497,1,Microsoft Corporation,22,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://tubi.io,0,0,0,,2909,1,,15,1,0,0,0,io,0,0,0,0,0,0,0,0,0,0,0,1
+https://azure.net,1,1,162,Microsoft Corporation,8014,1,Microsoft Corporation,17,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://cdn-apple.com,0,0,0,,5461,1,Apple Inc.,21,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://123av.com,1,1,55,Google Trust Services,4494,1,Privacy service provided by Withheld for Privacy ehf,17,1,0,0,0,com,0,5,10,1,0,1,3,0,0,0,0,1
+https://sofascore.com,1,1,62,Let's Encrypt,4902,1,,21,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://xxx18hot.com,0,0,0,,2174,1,Statutory Masking for data privacy,20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://app-analytics-services.com,1,1,58,Google Trust Services,666,1,Google LLC,34,1,2,0,0,com,0,0,1,0,0,0,0,0,0,0,0,1
+https://arca.live,1,1,55,Google Trust Services,0,0,,17,1,0,0,0,live,0,0,0,0,0,0,0,1,1,0,1,1
+https://idnes.cz,1,1,112,Sectigo Limited,10184,1,,16,1,0,0,0,cz,1,2,489,1,1,1,0,1,1,1,1,1
+https://serviporno.com,1,1,58,Google Trust Services,8274,1,Whois Privacy (enumDNS dba),22,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://mozilla.com,1,1,43,Google Trust Services,11323,1,Mozilla Corporation,19,1,0,0,0,com,0,0,31,0,1,0,0,1,1,1,1,1
+https://static.microsoft,0,0,0,,0,0,,24,1,0,0,0,microsoft,0,0,0,0,0,0,0,0,0,0,0,1
+https://rule34video.com,1,1,62,Let's Encrypt,2490,1,,23,1,0,0,0,com,0,0,0,0,0,0,0,0,1,1,1,1
+https://nexusmods.com,1,1,87,Google Trust Services,5301,1,,21,1,0,0,0,com,0,0,0,0,0,0,0,0,1,0,1,1
+https://trello.com,1,1,321,Amazon,7728,1,Atlassian Pty Ltd,18,1,0,0,0,com,0,3,23,1,1,1,0,1,1,0,1,1
+https://myshopify.com,1,1,58,Let's Encrypt,7169,1,Shopify Inc.,21,1,0,0,0,com,0,0,6,1,0,0,0,0,1,1,1,1
+https://mts-ws.net,0,0,0,,1523,1,"PJSC ""Mobile TeleSystems""",18,1,1,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://mythad.com,0,0,0,,1725,1,,18,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://eepurl.com,1,1,132,DigiCert Inc,6143,1,Intuit Inc.,18,1,0,0,0,com,0,0,3,0,0,0,0,0,0,0,0,1
+https://princeton.edu,1,1,232,Internet2,14078,1,,21,1,0,0,0,edu,0,1,70,1,1,1,0,0,0,0,0,1
+https://duolingo.com,1,1,64,"GoDaddy.com, Inc.",5743,1,Identity Protection Service,20,1,0,0,0,com,1,0,0,0,0,0,0,0,1,0,0,1
+https://freesexkahani.com,1,1,73,Google Trust Services,2277,1,DATA REDACTED,25,1,0,0,0,com,0,0,0,0,0,0,0,1,1,0,1,1
+https://lausd.net,0,0,0,,10274,1,,17,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://geocities.com,0,0,0,,10900,1,Yahoo IP Holdings LLC,21,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://bato.to,1,1,24,ZeroSSL,946,1,Redacted for Privacy Purposes,15,1,0,0,0,to,1,1,57,1,1,1,13,0,0,0,0,1
+https://inner-active.mobi,0,0,0,,0,0,,25,1,1,0,0,mobi,0,0,0,0,0,0,0,0,0,0,0,1
+https://myreadingmanga.info,1,1,69,Google Trust Services,0,0,,27,1,0,0,0,info,0,0,0,0,0,0,0,1,1,0,1,1
+https://oraclecloud.com,1,1,137,DigiCert Inc,6077,1,Oracle Corporation,23,1,0,0,0,com,0,0,0,0,0,1,0,0,1,1,1,1
+https://sitescout.com,1,1,83,Let's Encrypt,9289,1,,21,1,0,0,0,com,2,0,132,1,1,1,0,1,1,0,0,1
+https://p2yn.com,1,1,70,Let's Encrypt,1309,1,Privacy service provided by Withheld for Privacy ehf,16,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://bbb.org,1,1,89,Google Trust Services,11113,1,,15,1,0,0,0,org,0,3,16,1,1,1,2,0,0,0,1,1
+https://nikkei.com,1,1,66,Amazon,11120,1,,18,1,0,0,0,com,0,1,587,1,1,0,1,1,0,1,1,1
+https://ctdns.cn,0,0,0,,4531,1,,16,1,0,0,0,cn,0,0,0,0,0,0,0,0,0,0,0,1
+https://terra.com.br,1,1,187,Valid Certificadora Digital LTDA,9819,1,,20,2,0,0,0,br,0,0,115,1,0,1,23,1,1,0,0,1
+https://instructure.com,1,1,20,Certainly,10097,1,Redacted for Privacy Purposes,23,1,0,0,0,com,2,1,15,1,1,1,0,1,1,0,1,1
+https://linktr.ee,1,1,45,Let's Encrypt,3510,1,,17,1,0,0,0,ee,2,2,10,1,1,1,0,1,1,1,0,1
+https://aliexpress.com,0,0,0,,7124,1,,22,1,0,0,0,com,0,0,0,0,0,0,0,1,0,0,0,1
+https://giphy.com,1,1,234,GlobalSign nv-sa,4707,1,"Domains By Proxy, LLC",17,1,0,0,0,com,0,0,0,0,0,0,0,1,0,0,0,1
+https://trbcdn.net,0,0,0,,3126,1,"LLC ""CDN-video""",18,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://redhat.com,1,1,152,DigiCert Inc,11468,1,"Red Hat, Inc.",18,1,0,0,0,com,0,1,51,1,1,1,4,1,1,1,1,1
+https://aaplimg.com,0,0,0,,4532,1,Apple Inc.,19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://adaether.com,0,0,0,,1725,1,,20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://evotor.ru,1,1,327,GlobalSign nv-sa,3480,1,"EVOTOR, LLC",17,1,0,0,0,ru,0,5,143,1,0,1,0,1,1,1,0,1
+https://eventbrite.com,1,1,297,Amazon,7205,1,,22,1,0,0,0,com,0,1,115,1,1,1,10,1,0,0,0,1
+https://su89-cdn.net,1,1,146,Sectigo Limited,949,1,"Domains By Proxy, LLC",20,1,1,0,0,net,1,0,16,1,1,1,11,1,1,1,1,1
+https://fao.org,1,1,57,DigiCert Inc,11784,1,Statutory Masking Enabled,15,1,0,0,0,org,5,0,61,1,1,1,0,1,1,1,1,1
+https://akamai.net,0,0,0,,9726,1,"Akamai Technologies, Inc.",18,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://nih.gov,1,1,127,"GoDaddy.com, Inc.",10243,1,REDACTED FOR PRIVACY,15,1,0,0,0,gov,1,1,40,0,1,1,0,1,1,1,1,1
+https://motherless.com,0,0,0,,7272,1,"Whois protection, this company does not own this domain name s.r.o.",22,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://cam4.com,1,1,365,GlobalSign nv-sa,9578,1,GLOBAL DOMAIN PRIVACY SERVICES INC,16,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://aiv-cdn.net,0,0,0,,3908,1,"Amazon Technologies, Inc.",19,1,1,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://wired.com,1,1,148,GlobalSign nv-sa,12020,1,,17,1,0,0,0,com,1,0,67,1,1,1,39,0,0,0,1,1
+https://steamserver.net,0,0,0,,6336,1,Valve Corporation,23,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://tiktok.com,1,1,240,DigiCert Inc,10681,1,TIKTOK LTD,18,1,0,0,0,com,0,0,73,1,1,1,0,1,0,1,0,1
+https://marriott.com,1,1,348,Sectigo Limited,11974,1,,20,1,0,0,0,com,0,0,0,0,0,0,0,1,0,0,0,1
+https://espn.com.ve,1,1,27,COMODO CA Limited,0,0,,19,2,0,0,0,ve,0,0,71,1,1,0,9,0,0,1,0,1
+https://ttlivecdn.com,0,0,0,,1552,1,TIKTOK LTD,21,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://discord.media,1,1,72,Google Trust Services,0,0,,21,1,0,0,0,media,0,0,5,0,0,0,0,1,1,0,1,1
+https://buzzfeed.com,1,1,314,GlobalSign nv-sa,8472,1,"BuzzFeed, Inc.",20,1,0,0,0,com,1,0,159,1,1,1,1,1,1,1,1,1
+https://jable.tv,1,1,66,Google Trust Services,3118,1,"Domains By Proxy, LLC",16,1,0,0,0,tv,0,0,0,0,0,0,0,0,1,0,1,1
+https://onedrive.com,1,1,141,Microsoft Corporation,9994,1,Microsoft Corporation,20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://deepintent.com,1,1,81,"GoDaddy.com, Inc.",4660,1,"Domains By Proxy, LLC",22,1,0,0,0,com,1,0,6,1,1,1,0,0,0,0,0,1
+https://wannonce.com,1,1,88,Sectigo Limited,6525,1,,20,1,0,0,0,com,0,0,68,1,0,1,0,0,1,0,0,1
+https://inmobi.com,1,1,321,Sectigo Limited,6730,1,Identity Protection Service,18,1,0,0,0,com,1,0,15,0,0,1,0,0,1,0,0,1
+https://mangabuddy.com,1,1,78,Let's Encrypt,2028,1,See PrivacyGuardian.org,22,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://jw.org,1,1,207,DigiCert Inc,9723,1,Identity Protection Service,14,1,0,0,0,org,0,0,0,0,0,0,0,0,0,0,0,1
+https://amazon.com.tr,1,1,229,Amazon,0,0,,21,2,0,0,0,tr,0,2,14,1,1,0,0,1,1,1,1,1
+https://mercadolibre.com.ar,1,1,382,Amazon,4383,1,,27,2,0,0,0,ar,0,1,273,1,1,1,10,1,0,1,1,1
+https://usatoday.com,1,1,69,Let's Encrypt,11495,1,Gannett Media Corp,20,1,0,0,0,com,0,1,69,1,1,1,8,1,1,1,1,1
+https://patria.org.ve,0,0,0,,0,0,,21,2,0,0,0,ve,0,0,0,0,0,0,0,0,0,0,0,1
+https://flashscore.fr,1,1,38,Let's Encrypt,3536,1,,21,1,0,0,0,fr,1,0,20,1,1,1,0,0,0,0,0,1
+https://sport24.gr,1,1,46,Google Trust Services,0,0,,18,1,0,0,0,gr,0,0,1,0,0,0,0,0,1,0,0,1
+https://pornhub.com,0,0,0,,9117,1,Whois Privacy (enumDNS dba),19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://mediatek.com,1,1,143,GlobalSign nv-sa,8810,1,,20,1,0,0,0,com,1,1,311,0,1,1,0,1,1,1,1,1
+https://vungle.com,1,1,48,Let's Encrypt,5470,1,REDACTED FOR PRIVACY,18,1,0,0,0,com,0,1,194,1,1,1,0,0,0,0,0,1
+https://sky.com,1,1,168,Sectigo Limited,13715,1,Sky Limited,15,1,0,0,0,com,0,1,57,1,1,1,2,1,1,1,1,1
+https://xnxx.tv,0,0,0,,6813,1,Privacy service provided by Withheld for Privacy ehf,15,1,0,0,0,tv,0,0,0,0,0,0,0,0,0,0,0,1
+https://threads.com,1,1,7,DigiCert Inc,11124,1,"Instagram, LLC",19,1,0,0,0,com,0,0,0,1,1,1,2,1,1,1,1,1
+https://sagepub.com,1,1,346,DigiCert Inc,13304,1,,19,1,0,0,0,com,1,3,12,1,0,0,0,0,0,1,0,1
+https://youku.com,0,0,0,,7970,1,,17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://upwork.com,1,1,200,DigiCert Inc,8661,1,Upwork,18,1,0,0,0,com,0,0,0,0,0,0,10,1,1,0,1,1
+https://huffingtonpost.com,1,1,203,GlobalSign nv-sa,7526,1,"BuzzFeed, Inc.",26,1,0,0,0,com,0,1,239,1,1,1,0,1,0,1,1,1
+https://avito.st,1,1,59,GlobalSign nv-sa,5484,1,,16,1,0,0,0,st,1,0,19,1,0,1,12,0,1,0,1,1
+https://sentry.io,1,1,310,DigiCert Inc,4941,1,,17,1,0,0,0,io,0,1,36,1,1,1,0,1,0,1,0,1
+https://bookmark.xxx,0,0,0,,2187,1,"['ADVORTEX LP', 'Statutory Masking for data privacy']",20,1,0,0,0,xxx,0,0,0,0,0,0,0,0,0,0,0,1
+https://imhentai.xxx,1,1,55,Google Trust Services,1688,1,"Private by Design, LLC",20,1,0,0,0,xxx,0,2,9,1,0,1,63,0,0,0,0,1
+https://opera-api2.com,0,0,0,,973,1,,22,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://pv-cdn.net,0,0,0,,1674,1,"Amazon Technologies, Inc.",18,1,1,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://adriver.ru,1,1,183,GlobalSign nv-sa,9088,1,"LLC ""Internest-holding""",18,1,0,0,0,ru,0,1,2,0,1,1,3,0,0,0,0,1
+https://change.org,1,1,68,Google Trust Services,11231,1,,18,1,0,0,0,org,0,0,30,1,1,1,9,1,1,1,1,1
+https://hdtube.porn,1,1,44,Let's Encrypt,3788,1,"['ADV SERVICES LTD.', 'Statutory Masking for data privacy']",19,1,0,0,0,porn,1,1,177,1,1,0,32,0,1,0,0,1
+https://zillow.com,1,1,301,Amazon,7701,1,,18,1,0,0,0,com,0,0,0,0,0,0,0,1,0,0,1,1
+https://piccoma.com,1,1,193,GlobalSign nv-sa,3615,1,Whois Privacy Protection Service by onamae.com,19,1,0,0,0,com,1,1,7,1,0,0,1,0,0,0,0,1
+https://sciencedirect.com,1,1,70,Google Trust Services,10447,1,,25,1,0,0,0,com,0,0,9,1,1,1,26,1,1,0,1,1
+https://visualstudio.com,1,1,145,Microsoft Corporation,10441,1,Microsoft Corporation,24,1,0,0,0,com,0,1,178,1,1,1,9,1,1,1,1,1
+https://indeed.com,1,1,71,Google Trust Services,10064,1,"Indeed, Inc",18,1,0,0,0,com,0,0,14,1,0,1,1,0,1,0,1,1
+https://exclusive-spin.com,1,1,43,Google Trust Services,637,1,REDACTED FOR PRIVACY,26,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://expedia.com,1,1,170,DigiCert Inc,10920,1,,19,1,0,0,0,com,0,0,0,1,0,0,20,1,1,1,1,1
+https://vkuseraudio.net,1,1,144,GlobalSign nv-sa,3096,1,,23,1,0,0,0,net,0,0,0,0,0,0,0,1,0,0,0,1
+https://ibm.com,1,1,364,DigiCert Inc,14458,1,,15,1,0,0,0,com,1,0,41,1,1,1,1,1,1,1,1,1
+https://funinexchange247.com,1,1,47,Google Trust Services,515,1,"Domains By Proxy, LLC",28,1,0,0,0,com,2,0,0,1,1,0,0,0,0,0,0,1
+https://ipv4only.arpa,0,0,0,,0,0,,21,1,0,0,0,arpa,0,0,0,0,0,0,0,0,0,0,0,1
+https://escort.club,1,1,82,Google Trust Services,1293,1,Privacy service provided by Withheld for Privacy ehf,19,1,0,0,0,club,0,0,1,0,0,0,0,0,1,0,0,1
+https://ad.gt,1,1,142,Amazon,0,0,,13,1,0,0,0,gt,0,0,0,0,0,0,0,0,0,0,0,1
+https://ys7.com,1,1,34,GlobalSign nv-sa,7928,1,,15,1,0,0,0,com,0,1,48,1,0,0,0,0,0,0,0,1
+https://nytimes.com,1,1,147,DigiCert Inc,11596,1,The New York Times Company,19,1,0,0,0,com,1,0,624,1,1,1,1,1,1,1,1,1
+https://mckinsey.com,1,1,357,Sectigo Limited,12933,1,,20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://xhamster.desi,0,0,0,,0,0,,21,1,0,0,0,desi,0,0,0,0,0,0,0,0,0,0,0,1
+https://edgecdn.ru,0,0,0,,1318,1,"LLC ""EdgeCenter""",18,1,0,0,0,ru,0,0,0,0,0,0,0,0,0,0,0,1
+https://a2z.com,0,0,0,,11272,1,"Amazon Technologies, Inc.",15,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://starfall.com,1,1,51,"GoDaddy.com, Inc.",10305,1,,20,1,0,0,0,com,0,1,25,1,1,1,0,1,1,0,0,1
+https://abovedomains.com,1,1,32,Let's Encrypt,1773,1,,24,1,0,0,0,com,0,0,0,0,0,0,1,0,0,0,0,1
+https://doubleclick.net,1,1,58,Google Trust Services,10868,1,Google LLC,23,1,0,0,0,net,1,0,32,0,1,1,0,0,0,1,1,1
+https://bitrixphone.com,0,0,0,,3894,1,REDACTED FOR PRIVACY,23,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://chordtela.com,1,1,49,Google Trust Services,4107,1,CV ID Protection d/b/a PROTECT.ID,21,1,0,0,0,com,0,0,1,0,0,0,0,0,1,0,0,1
+https://mysql.com,1,1,137,DigiCert Inc,9754,1,Oracle Corporation,17,1,0,0,0,com,0,0,0,0,0,1,0,0,0,0,0,1
+https://dailymail.co.uk,1,1,220,DigiCert Inc,10670,1,,23,2,0,0,0,uk,0,0,0,0,0,0,0,0,0,0,0,1
+https://atlassian.net,1,1,355,Amazon,8978,1,Atlassian Pty Ltd,21,1,0,0,0,net,0,1,35,1,1,1,0,1,1,1,1,1
+https://wac-dc-msedge.net,0,0,0,,1050,1,,25,1,2,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://pixiv.net,1,1,58,GlobalSign nv-sa,6668,1,REDACTED FOR PRIVACY,17,1,0,0,0,net,2,8,37,1,1,0,0,1,1,0,0,1
+https://firetvcaptiveportal.com,0,0,0,,2045,1,"Amazon Technologies, Inc.",31,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://rtbcdn.ru,0,0,0,,208,1,"Obshchestvo s ogranichennoj otvetstvennostyu ""RUFORM""",17,1,0,0,0,ru,0,0,0,0,0,0,0,0,0,0,0,1
+https://bakecaincontrii.com,1,1,60,Google Trust Services,5628,1,Strasshill Holdings Limited,27,1,0,0,0,com,0,0,36,1,1,1,3,1,1,0,1,1
+https://pages.dev,1,1,70,Google Trust Services,0,0,,17,1,0,0,0,dev,0,0,0,0,0,0,0,0,0,0,0,1
+https://lenovo.com,1,1,26,DigiCert Inc,8443,1,Lenovo Beijing Limited,18,1,0,0,0,com,1,1,7,1,1,1,2,1,1,1,0,1
+https://cloudflare.com,1,1,52,Google Trust Services,6086,1,DATA REDACTED,22,1,0,0,0,com,0,0,52,1,1,1,5,1,1,0,1,1
+https://allaboutcookies.org,1,1,71,Google Trust Services,6328,1,,27,1,0,0,0,org,0,0,0,0,0,0,0,0,0,0,0,1
+https://sentinelone.net,0,0,0,,4155,1,"Domains By Proxy, LLC",23,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://theqoo.net,1,1,53,Google Trust Services,4706,1,,18,1,0,0,0,net,0,0,0,0,0,1,0,0,1,0,1,1
+https://mechacomic.jp,1,1,202,"Cybertrust Japan Co., Ltd.",4055,1,,21,1,0,0,0,jp,1,1,17,1,1,0,6,1,1,0,1,1
+https://hugedomains.com,1,1,41,Google Trust Services,8022,1,HugeDomains.com,23,1,0,0,0,com,0,0,1,0,0,0,0,0,1,0,0,1
+https://oup.com,1,1,340,Amazon,10099,1,,15,1,0,0,0,com,2,0,75,1,1,1,0,0,0,0,0,1
+https://salonboard.com,1,1,178,DigiCert Inc,5355,1,,22,1,0,0,0,com,2,0,3,1,1,1,0,0,1,0,0,1
+https://ficbook.net,1,1,82,Let's Encrypt,5334,1,Privacy service provided by Withheld for Privacy ehf,19,1,0,0,0,net,0,0,0,0,0,0,0,1,1,0,1,1
+https://exhentai.org,1,1,88,Google Trust Services,5752,1,,20,1,0,0,0,org,0,0,0,0,0,0,0,1,0,0,0,1
+https://happymh.com,1,1,87,Google Trust Services,2310,1,DATA REDACTED,19,1,0,0,0,com,0,0,3,1,0,0,7,1,1,0,1,1
+https://flashscore.com,1,1,57,Let's Encrypt,8447,1,Livesport s.r.o.,22,1,0,0,0,com,1,0,28,1,1,1,0,0,0,0,0,1
+https://xxxbp.tv,1,1,77,Let's Encrypt,1216,1,"['seo interval', 'Statutory Masking for data privacy']",16,1,0,0,0,tv,0,1,6,0,1,0,4574,0,0,0,0,1
+https://manoramaonline.com,1,1,124,DigiCert Inc,8851,1,REDACTED FOR PRIVACY,26,1,0,0,0,com,1,0,83,1,1,1,2,1,0,0,1,1
+https://garmin.com,1,1,32,"GoDaddy.com, Inc.",11127,1,Garmin International,18,1,0,0,0,com,0,0,117,1,1,1,0,1,0,0,0,1
+https://weibo.com,0,0,0,,9709,1,,17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://f5.com,1,1,34,"Entrust, Inc.",10732,1,,14,1,0,0,0,com,0,0,110,1,1,1,4,1,1,1,1,1
+https://cbsnews.com,1,1,148,Sectigo Limited,11337,1,CBS Broadcasting Inc.,19,1,0,0,0,com,5,0,155,1,1,1,28,0,0,0,1,1
+https://cdn20.com,0,0,0,,7112,1,,17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://dns.google,1,1,58,Google Trust Services,0,0,,18,1,0,0,0,google,0,1,2,0,0,0,0,1,1,1,1,1
+https://digikala.com,1,1,332,Asseco Data Systems S.A.,6919,1,No Avaran-e Fanavaze,20,1,0,0,0,com,0,0,0,0,0,0,0,1,0,0,0,1
+https://supjav.com,1,1,33,Google Trust Services,1920,1,See PrivacyGuardian.org,18,1,0,0,0,com,0,1,4,1,0,1,0,0,0,0,0,1
+https://spamhaus.org,1,1,64,Let's Encrypt,9513,1,Spamhaus IP Holdings SLU,20,1,0,0,0,org,1,2,29,1,1,1,12,1,1,1,1,1
+https://com.se,0,0,0,,4392,1,,14,1,0,0,0,se,0,0,0,0,0,0,0,0,0,0,0,1
+https://luticlip.com,1,1,80,Let's Encrypt,3287,1,,20,1,0,0,0,com,0,3,1,1,0,0,1,1,1,0,1,1
+https://he.net,1,1,131,"GoDaddy.com, Inc.",11037,1,,14,1,0,0,0,net,0,0,9,1,1,1,0,0,1,0,1,1
+https://intuit.com,1,1,24,DigiCert Inc,11565,1,Intuit Inc.,18,1,0,0,0,com,0,0,0,0,0,0,0,1,1,1,1,1
+https://unity3d.com,1,1,100,DigiCert Inc,7321,1,Unity Technologies SF,19,1,0,0,0,com,0,0,14,1,1,1,0,1,0,0,0,1
+https://boyfriendtv.com,1,1,53,Google Trust Services,5594,1,Statutory Masking for data privacy,23,1,0,0,0,com,0,0,0,0,0,0,0,0,1,0,1,1
+https://eporner.com,1,1,380,GlobalSign nv-sa,6401,1,c/o whoisproxy.com,19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://fbpigeon.com,0,0,0,,2422,1,"Meta Platforms, Inc.",20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://yandex.com.tr,1,1,128,GlobalSign nv-sa,0,0,,21,2,0,0,0,tr,0,1,5,1,0,0,0,0,1,1,1,1
+https://aol.com,1,1,74,DigiCert Inc,11076,1,AOL Media LLC,15,1,0,0,0,com,0,4,482,1,1,1,12,1,1,1,1,1
+https://userapi.com,1,1,144,GlobalSign nv-sa,6232,1,Privacy protection service - whoisproxy.ru,19,1,0,0,0,com,0,0,0,1,0,0,0,1,1,1,0,1
+https://transsion-os.com,0,0,0,,1220,1,,24,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://cloud.microsoft,1,1,162,Microsoft Corporation,0,0,,23,1,0,0,0,microsoft,0,0,194,1,1,1,0,1,1,1,1,1
+https://scdn.co,0,0,0,,5537,1,REDACTED FOR PRIVACY,15,1,0,0,0,co,0,0,0,0,0,0,0,0,0,0,0,1
+https://miit.gov.cn,0,0,0,,0,0,,19,2,0,0,0,cn,0,0,0,0,0,0,0,0,0,0,0,1
+https://sonobi.com,1,1,230,"Starfield Technologies, Inc.",6897,1,"Domains By Proxy, LLC",18,1,0,0,0,com,0,0,27,1,1,1,0,0,0,0,0,1
+https://applovin.com,1,1,36,Google Trust Services,5222,1,,20,1,0,0,0,com,0,0,12,1,1,0,0,0,0,0,0,1
+https://porno365.bike,0,0,0,,0,0,,21,1,0,0,0,bike,0,0,0,0,0,0,0,0,0,0,0,1
+https://google.co.uk,1,1,58,Google Trust Services,9743,1,,20,2,0,0,0,uk,0,1,32,1,1,0,0,0,1,0,0,1
+https://utorrent.com,1,1,321,"GoDaddy.com, Inc.",7675,1,"Domains By Proxy, LLC",20,1,0,0,0,com,1,0,16,1,1,0,1,0,1,1,0,1
+https://wikimedia.org,1,1,81,Let's Encrypt,8251,1,,21,1,0,0,0,org,0,0,23,0,1,1,3,1,0,0,0,1
+https://rule34.xxx,1,1,79,Google Trust Services,5021,1,Privacy service provided by Withheld for Privacy ehf,18,1,0,0,0,xxx,0,1,1,1,0,1,10,1,0,0,0,1
+https://gcdn.co,0,0,0,,4146,1,,15,1,0,0,0,co,0,0,0,0,0,0,0,0,0,0,0,1
+https://spankbang.com,1,1,39,Let's Encrypt,5354,1,Privacy service provided by Withheld for Privacy ehf,21,1,0,0,0,com,0,0,1,0,0,0,0,1,1,0,1,1
+https://divar.ir,1,1,215,Unizeto Technologies S.A.,0,0,,16,1,0,0,0,ir,1,0,5,1,0,1,0,1,1,1,1,1
+https://office365.com,1,1,169,Microsoft Corporation,7424,1,Microsoft Corporation,21,1,0,0,0,com,0,0,1,0,0,0,0,1,0,0,0,1
+https://ultradns.com,1,1,274,DigiCert Inc,9973,1,,20,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://spo-msedge.net,0,0,0,,2859,1,Microsoft Corporation,22,1,1,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://dbankcloud.cn,0,0,0,,2325,1,,21,1,0,0,0,cn,0,0,0,0,0,0,0,0,0,0,0,1
+https://asuracomic.net,1,1,81,Google Trust Services,1274,1,Privacy service provided by Withheld for Privacy ehf,22,1,0,0,0,net,0,0,5,1,1,0,0,0,0,0,0,1
+https://typepad.com,1,1,87,Google Trust Services,0,0,,19,1,0,0,0,com,0,0,0,0,0,0,0,1,1,0,1,1
+https://ox.ac.uk,1,1,39,Let's Encrypt,10670,1,,16,2,0,0,0,uk,1,1,206,1,1,1,1,1,0,1,1,1
+https://leboncoin.fr,1,1,115,Amazon,6850,1,,20,1,0,0,0,fr,0,0,0,0,0,0,0,1,0,1,0,1
+https://bytefcdn-ttpus.com,0,0,0,,1037,1,Lemon Inc,26,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://vtwenty.com,0,0,0,,521,1,Identity Protection Service,19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://addtoany.com,1,1,32,Google Trust Services,7161,1,DATA REDACTED,20,1,0,0,0,com,0,0,25,1,1,1,0,1,0,0,1,1
+https://midilibre.fr,1,1,259,Gandi SAS,10742,1,,20,1,0,0,0,fr,1,5,111,1,0,1,0,1,1,1,0,1
+https://adobess.com,0,0,0,,2796,1,Adobe Inc.,19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://elpais.com,1,1,59,Let's Encrypt,8992,1,"DIARIO EL PAIS, S.L.",18,1,0,0,0,com,0,1,116,1,1,1,2,0,0,0,0,1
+https://s-msedge.net,0,0,0,,4243,1,Microsoft Corporation,20,1,1,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://mamastar.jp,1,1,367,Amazon,8392,1,,19,1,0,0,0,jp,1,0,80,1,1,0,0,0,1,0,1,1
+https://mashable.com,1,1,58,Google Trust Services,7395,1,,20,1,0,0,0,com,1,1,44,1,1,1,13,1,0,0,0,1
+https://slack.com,1,1,72,Let's Encrypt,12050,1,"Slack Technologies, Inc.",17,1,0,0,0,com,0,0,30,1,1,1,0,1,1,0,0,1
+https://tuazar.com,1,1,31,Google Trust Services,7723,1,DATA REDACTED,18,1,0,0,0,com,0,0,2,1,0,1,0,1,1,0,1,1
+https://nps.gov,1,1,316,DigiCert Inc,10243,1,REDACTED FOR PRIVACY,15,1,0,0,0,gov,1,2,21,1,1,1,0,1,0,0,0,1
+https://pendo.io,1,1,37,Google Trust Services,4505,1,,16,1,0,0,0,io,9,1,171,1,1,1,3,1,0,0,0,1
+https://ebay.de,1,1,283,Sectigo Limited,0,0,,15,1,0,0,0,de,0,1,64,1,1,0,0,1,1,0,1,1
+https://goojara.to,0,0,0,,933,1,,18,1,0,0,0,to,0,0,0,0,0,0,0,0,0,0,0,1
+https://uci.edu,1,1,249,Amazon,14628,1,,15,1,0,0,0,edu,1,2,46,0,1,1,0,1,1,0,0,1
+https://spov-msedge.net,0,0,0,,2542,1,Microsoft Corporation,23,1,1,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://akamaiedge.net,0,0,0,,8780,1,"Akamai Technologies, Inc.",22,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://presage.io,0,0,0,,4187,1,,18,1,0,0,0,io,0,0,0,0,0,0,0,0,0,0,0,1
+https://calculator.net,1,1,323,"GoDaddy.com, Inc.",9965,1,"Domains By Proxy, LLC",22,1,0,0,0,net,0,1,1,1,1,0,0,0,0,0,0,1
+https://gismeteo.ru,1,1,16,GlobalSign nv-sa,9069,1,MapMakers Group Ltd.,19,1,0,0,0,ru,0,0,34,0,0,1,0,1,1,0,1,1
+https://adtrafficquality.google,1,1,58,Google Trust Services,0,0,,31,1,0,0,0,google,1,0,11,1,1,0,0,0,0,1,1,1
+https://forms.gle,1,1,40,Google Trust Services,0,0,,17,1,0,0,0,gle,0,0,1,0,0,0,0,0,0,1,0,1
+https://palmplaystore.com,1,1,160,Amazon,4316,1,,25,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://kwai.net,0,0,0,,9509,1,"Domains By Proxy, LLC",16,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://kwcdn.com,0,0,0,,1166,1,"Domains By Proxy, LLC",17,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://parivahan.gov.in,1,1,351,eMudhra Technologies Limited,5209,1,Ministry of Road Transport and Highways,24,2,0,0,0,in,0,1,93,1,1,1,0,0,1,1,1,1
+https://facebook.net,0,0,0,,7870,1,"Meta Platforms, Inc.",20,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://tencent.com,1,1,249,"DigiCert, Inc.",9896,1,深圳市腾讯计算机系统有限公司,19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://absher.sa,1,1,175,DigiCert Inc,0,0,,17,1,0,0,0,sa,0,0,0,0,0,0,0,0,0,0,0,1
+https://cdnvideo.ru,1,1,30,Let's Encrypt,6039,1,"LLC ""CDN-video""",19,1,0,0,0,ru,0,2,25,1,1,1,2,0,1,1,1,1
+https://volcfcdndvs.com,0,0,0,,1512,1,,23,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://run.app,1,1,58,Google Trust Services,0,0,,15,1,0,0,0,app,0,0,1,0,0,0,0,0,0,0,0,1
+https://nirvam.it,1,1,214,Sectigo Limited,7360,1,,17,1,0,0,0,it,0,2,20,1,1,0,1,0,0,0,0,1
+https://mobiledokan.com,1,1,226,Sectigo Limited,4623,1,Privacy service provided by Withheld for Privacy ehf,23,1,0,0,0,com,1,6,159,1,1,1,0,0,0,0,0,1
+https://wise.com,1,1,208,DigiCert Inc,11548,1,Digital Privacy Corporation,16,1,0,0,0,com,1,0,23,1,1,1,0,1,0,1,1,1
+https://kooora.com,1,1,71,Amazon,8447,1,,18,1,0,0,0,com,0,0,12,1,1,1,0,0,1,1,1,1
+https://live.net,0,0,0,,11051,1,,16,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://lc.chat,1,1,66,Google Trust Services,0,0,,15,1,0,0,0,chat,2,4,55,1,1,1,0,1,0,0,0,1
+https://marketwatch.com,1,1,158,Amazon,10306,1,,23,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://filmyfly.reisen,0,0,0,,0,0,,23,1,0,0,0,reisen,0,0,0,0,0,0,0,0,0,0,0,1
+https://live.com,1,1,329,DigiCert Inc,11252,1,,16,1,0,0,0,com,0,0,0,1,0,0,0,1,0,1,0,1
+https://sexvid.xxx,1,1,154,Sectigo Limited,4525,1,"['ADV SERVICES LTD.', 'Statutory Masking for data privacy']",18,1,0,0,0,xxx,1,1,130,1,1,0,653,1,1,0,0,1
+https://fb.me,1,1,7,DigiCert Inc,5929,1,,13,1,0,0,0,me,0,1,25,1,1,1,0,1,1,1,1,1
+https://alicdn.com,0,0,0,,6323,1,,18,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://newyorker.com,1,1,148,GlobalSign nv-sa,11660,1,,21,1,0,0,0,com,1,0,34,1,1,1,0,0,0,0,1,1
+https://demdex.net,0,0,0,,6276,1,Adobe Inc.,18,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://grammarly.com,1,1,307,Amazon,5952,1,"Domains By Proxy, LLC",21,1,0,0,0,com,1,0,186,1,1,1,0,1,0,1,1,1
+https://armgs.team,1,1,61,Let's Encrypt,0,0,,18,1,0,0,0,team,1,0,9,0,0,0,0,1,0,0,0,1
+https://cisco.com,1,1,337,IdenTrust,14037,1,Cisco Technology Inc.,17,1,0,0,0,com,0,0,36,1,1,1,0,1,1,1,1,1
+https://azurewebsites.net,0,0,0,,5015,1,Microsoft Corporation,25,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://faphouse1.com,1,1,35,Google Trust Services,575,1,"Domain Protection Services, Inc.",21,1,0,0,0,com,1,4,18,1,1,1,45,1,1,1,0,1
+https://filmyzilla19.com,0,0,0,,208,1,Whois Privacy Corp.,24,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://ovh.com,1,1,53,Sectigo Limited,10480,1,REDACTED FOR PRIVACY,15,1,0,0,0,com,1,1,365,1,1,1,0,0,1,0,1,1
+https://byteglb.com,0,0,0,,1016,1,Lemon Inc,19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://force.com,1,1,26,DigiCert Inc,12570,1,"Salesforce.com, Inc.",17,1,0,0,0,com,0,0,477,1,1,1,0,1,1,0,1,1
+https://naukri.com,1,1,224,DigiCert Inc,10432,1,,18,1,0,0,0,com,1,0,0,0,0,0,0,1,1,0,1,1
+https://pangle.io,0,0,0,,2175,1,,17,1,0,0,0,io,0,0,0,0,0,0,0,0,0,0,0,1
+https://mangago.me,1,1,41,Google Trust Services,4824,1,,18,1,0,0,0,me,0,0,0,0,0,0,0,0,1,0,1,1
+https://box.com,1,1,153,DigiCert Inc,9740,1,"Box, Inc.",15,1,0,0,0,com,1,0,57,1,1,1,1,1,1,1,1,1
+https://wyzecam.com,1,1,178,DigiCert Inc,3010,1,"Domains By Proxy, LLC",19,1,0,0,0,com,0,3,17,1,1,1,0,1,1,1,1,1
+https://1mg.com,1,1,189,"GoDaddy.com, Inc.",9200,1,Tata 1MG Healthcare Solutions Private Limited,15,1,0,0,0,com,0,0,3,1,1,1,17,1,0,0,1,1
+https://lgtvsdp.com,0,0,0,,5500,1,,19,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://dotomi.com,1,1,343,GlobalSign nv-sa,9202,1,"Domains By Proxy, LLC",18,1,0,0,0,com,4,1,15,0,1,1,3,0,0,0,0,1
+https://ecosia.org,1,1,35,Google Trust Services,5857,1,Identity Protection Service,18,1,0,0,0,org,0,0,0,0,0,0,0,1,1,0,1,1
+https://mingky01.net,1,1,72,Google Trust Services,135,1,Privacy service provided by Withheld for Privacy ehf,20,1,0,0,0,net,0,4,7,1,0,0,0,0,0,0,0,1
+https://filmyfly.navy,0,0,0,,0,0,,21,1,0,0,0,navy,0,0,0,0,0,0,0,0,0,0,0,1
+https://msedge.net,0,0,0,,4963,1,Microsoft Corporation,18,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,1
+https://xinhuanet.com,0,0,0,,9303,1,,21,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://mbga.jp,1,1,164,"Cybertrust Japan Co., Ltd.",7260,1,,15,1,0,0,0,jp,1,0,12,1,0,0,0,0,0,0,0,1
+https://apornvideo.com,1,1,31,Google Trust Services,2178,1,,22,1,0,0,0,com,0,0,5,0,0,0,0,0,1,0,0,1
+https://atlassian.com,1,1,321,Amazon,8978,1,Atlassian Pty Ltd,21,1,0,0,0,com,0,0,39,1,1,1,0,1,1,1,1,1
+https://cdninstagram.com,0,0,0,,4188,1,Instagram LLC,24,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,1
+https://dzen.ru,1,1,260,GlobalSign nv-sa,8823,1,Zen.Platform LLC,15,1,0,0,0,ru,0,0,0,1,0,0,0,0,0,1,1,1
+https://spiegel.de,1,1,62,Sectigo Limited,0,0,,18,1,0,0,0,de,0,2,817,1,1,0,6,1,0,1,0,1
+https://moe.video,1,1,127,GlobalSign nv-sa,0,0,,17,1,0,0,0,video,0,1,3,0,1,1,0,0,1,1,1,1
+https://gcash.com,1,1,79,Google Trust Services,10020,1,"Domains By Proxy, LLC",17,1,0,0,0,com,2,0,43,0,1,0,0,1,1,1,0,1
+https://eset.com,1,1,38,Let's Encrypt,8948,1,"ESET, spol. s r.o.",16,1,0,0,0,com,2,0,54,1,1,1,20,1,1,1,1,1
+https://antarvasna3.com,1,1,78,Google Trust Services,1309,1,DATA REDACTED,23,1,0,0,0,com,0,0,0,0,0,0,0,1,1,0,1,1
+http://accident-report.com/USN/nnames/usnn.html,0,0,0,,9336,1,Proxy Protection LLC,47,2,1,0,0,com,0,2,2,0,0,1,0,0,0,0,0,0
+http://mariachisadomicilio.cl/images/ben/eebd659e08d098fd5f6ffbc0669d2182/webscr.php?cmd=_login-run,0,0,0,,1284,1,,99,2,1,0,2,cl,1,0,17,1,0,0,0,0,0,0,0,0
+http://facebook.com/people/Jocelyn-Black/511766893,0,0,0,,10430,1,"Meta Platforms, Inc.",50,1,1,0,0,com,0,0,0,1,1,1,4,1,1,1,1,0
+http://www.mybigprom.co.uk/zx/c1.php,0,0,0,,0,0,,36,4,0,0,0,uk,0,0,0,0,0,0,0,0,0,0,0,0
+http://vermontchocolatiers.com/,0,0,0,,0,0,,31,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://maslen.sk/index.php?option=com_content&view=section&layout=blog&id=5&Itemid=11,0,0,0,,7388,1,,85,2,0,0,10,sk,0,3,141,0,0,1,0,0,0,0,0,0
+http://allmusic.com/artist/montag-p697883,0,0,0,,11461,1,,41,1,1,0,0,com,1,2,32,1,1,1,0,1,1,1,1,0
+http://shop.ticketluck.com/american-idiot-tickets/,0,0,0,,7386,1,REDACTED FOR PRIVACY,50,2,2,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.nasharatech.com/cms/plugins/system/legacy/sec-fr/errer.php?cmd=_error_login-run&dispatch=5885d80a13c0db1fb6947b0aeae66fdbfb2119927117e3a6f876e0fd34af436580c63a156ebffe89e7779ac84ebf634880c63a156ebffe89e7779ac84ebf6348,0,0,0,,0,0,,228,3,2,0,4,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://wn.com/James_McGill,0,0,0,,11167,1,World News Pte Ltd,26,1,0,0,0,com,3,0,25,1,1,1,2,1,0,0,0,0
+http://beijingboyce.com/,0,0,0,,6961,1,Proxy Protection LLC,24,1,0,0,0,com,0,1,30,1,0,0,0,0,0,0,0,0
+http://jigsaw.w3.org/css-validator/,0,0,0,,11427,1,,35,2,1,0,0,org,0,3,8,0,0,0,0,0,0,0,0,0
+http://colegio-mexico.edu.mx/C09DE1BFA2114CCD9E6638438687BDCD/index.php,0,0,0,,8165,1,,71,3,1,0,0,mx,0,1,3,0,0,1,0,0,0,1,0,0
+http://museudadiversidade.com.br,0,0,0,,0,0,,32,2,0,0,0,br,0,0,0,0,0,0,0,0,0,0,0,0
+http://scripophily.stores.yahoo.net/caparacoca19.html,0,0,0,,10575,1,Yahoo Assets LLC,53,4,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,0
+http://ipkitten.blogspot.com/2010/08/marketing-of-octopus-paul.html,0,0,0,,0,0,,67,3,3,0,0,com,1,3,83,1,0,1,2,0,0,0,1,0
+http://linkedin.com/pub/adam-schiff/6/764/3a5,0,0,0,,8385,1,LinkedIn Corporation,45,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://tinnhanh360.net/cam-dong-chuyen-lam-trai-di-nguyen-cuoi-cung-cua-dien-vien-duy-nhan.html,0,0,0,,1073,1,"Domains By Proxy, LLC",95,2,13,0,0,net,0,0,0,0,0,0,0,0,0,0,0,0
+http://cbs-jesse-stone-innocents-lost.blackfriday2011outlet.com/,0,0,0,,0,0,,64,2,4,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://vivre-productions.com/index.php/productpresentatie,0,0,0,,6226,1,,57,2,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://march-iga-primeau.foodpages.ca/,0,0,0,,7750,1,,38,2,2,0,0,ca,0,0,1,0,0,0,0,0,1,0,0,0
+http://www.tecdiary.org/i/paypol-renew.com.login.54s5d48960qq14a2a1s0d5d8a12s0d5a8g6h0/,0,0,0,,5314,1,,87,5,1,0,0,org,0,0,5,0,0,1,0,0,1,0,0,0
+http://emgn.com/entertainment/this-photographer-captures-the-smiles-of-sleeping-babies-for-her-adorable-portraits/,0,0,0,,7789,1,"Domains By Proxy, LLC",114,1,11,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.gallacher-sons.co.uk/index.php?view=detail&id=134&option=com_joomgallery&Itemid=57,0,0,0,,0,0,,93,4,1,0,8,uk,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.ferienwohnungen-in-nordfriesland.de/dagebuell/1194-marschblick-1.html,0,0,0,,0,0,,80,3,4,0,0,de,0,0,0,0,0,0,0,0,0,0,0,0
+http://'www.spo-world.co.kr/js/index.htm?us.battle.net/login/en/?ref=http\%3A\%2F\%2Fmtbruqjus.battle.net\%2Fd3\%2Fen\%2Findex&amp;app=com-d3',0,0,0,,0,0,,142,8,2,0,11,kr,0,0,0,0,0,0,0,0,0,0,0,0
+http://news.uchicago.edu/releases/05/050406.bellow-photos.shtml,0,0,0,,12384,1,,63,4,1,0,0,edu,0,0,8,0,0,1,0,1,1,0,1,0
+http://en.wikipedia.org/wiki/California_State_Route_123,0,0,0,,9044,1,,55,2,0,0,0,org,0,2,33,1,1,1,3,1,0,0,1,0
+http://zjtfjt.com/ywbk-symyy-jywd.asp,0,0,0,,6430,1,Redacted for privacy,37,2,2,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://kisqninetwo.blogspot.com/2009/03/mason-moon-moorhouse.html,0,0,0,,0,0,,65,3,2,0,0,com,1,0,8,1,0,0,1,0,0,0,1,0
+http://pokerlistings.com/casino-de-montreal-hosts-automated-tournament-23908,0,0,0,,8259,1,"Domains By Proxy, LLC",76,1,6,0,0,com,2,2,251,1,1,1,0,0,0,0,0,0
+https://medium.com/backchannel/reinventing-the-trolley-problem-85f3d1730756?source=has-recommended,1,1,58,Google Trust Services,10006,1,Identity Protection Service,98,1,5,0,2,com,0,0,19,1,1,0,0,1,0,1,1,0
+http://bbc.co.uk/music/reviews/fq4z,0,0,0,,10670,1,,35,2,0,0,0,uk,0,1,33,1,1,1,0,1,0,0,0,0
+http://mediacollege.com/employment/film/director.html,0,0,0,,9848,1,,53,2,0,0,0,com,0,0,0,0,0,1,0,0,0,0,0,0
+http://www.arcolec.com/index.php?option=com_content&view=article&id=49&Itemid=58,0,0,0,,8227,1,,80,3,0,0,8,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://metacafe.com/watch/6791130/naruto_shippuden_ultimate_ninja_storm_2_ntsc_u_ntsc_j_excludes_china_xbox_360_iso_download/,0,0,0,,8928,1,"Meta Platforms, Inc.",125,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.trees-partner.ch/index.php?option=com_content&view=article&id=2&Itemid=2&fontstyle=f-default,0,0,0,,0,0,,103,3,2,0,10,ch,0,0,0,0,0,0,0,0,0,0,1,0
+https://medium.com/cuepoint/rockit-revisited-how-herbie-hancock-crafted-a-hip-hop-classic-12cd19406ca5,1,1,58,Google Trust Services,10006,1,Identity Protection Service,102,1,10,0,0,com,0,0,14,1,1,0,0,1,0,1,1,0
+http://myspace.com/toddagnew,0,0,0,,10831,1,"Domains By Proxy, LLC",28,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://imdb.com/name/nm1219541/,0,0,0,,10879,1,"IMDb.com, Inc.",31,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://pastehtml.com/view/b3tc7ru0v.html,0,0,0,,6108,1,Super Privacy Service LTD c/o Dynadot,40,2,0,0,0,com,0,0,1,1,0,0,1,0,1,0,1,0
+http://www.aibek.kz/index.php/2011-08-09-16-41-01,0,0,0,,0,0,,49,3,5,0,0,kz,0,0,0,0,0,0,0,0,0,0,0,0
+http://en.wikipedia.org/wiki/Danny_Baldwin,0,0,0,,9044,1,,42,2,0,0,0,org,0,2,18,1,1,1,0,1,0,0,1,0
+http://lewisandclarktrail.com/section1/mocities/St.Charles/history1.htm,0,0,0,,10234,1,,71,3,0,0,0,com,0,0,0,0,0,0,0,1,0,0,1,0
+http://espn.go.com/blog/collegebasketballnation/tag/_/name/2010-ncaa-oklahoma-city,0,0,0,,10144,1,,82,2,3,0,0,com,0,0,25,1,1,0,9,0,0,1,0,0
+http://mediafire.com/?gcm53mbe9hb,0,0,0,,8468,1,,33,1,0,0,1,com,1,0,0,0,0,0,0,0,0,0,0,0
+http://obits.al.com/obituaries/mobile/obituary.aspx?n=jayden-dominique-robinson&pid=148857839,0,0,0,,10405,1,,93,3,2,0,4,com,0,0,0,0,0,0,0,0,1,0,1,0
+http://enotes.com/topic/Theodore_%22Ted%22_Blunt,0,0,0,,8904,1,Identity Protection Service,48,1,0,0,2,com,0,0,0,0,0,0,0,0,1,0,1,0
+http://imdb.com/name/nm0483740/,0,0,0,,10879,1,"IMDb.com, Inc.",31,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://myspace.com/sandracartolari,0,0,0,,10831,1,"Domains By Proxy, LLC",34,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.cla-liege.be/index.php,0,0,0,,5503,1,Nuxit,33,3,1,0,0,be,0,0,1,0,0,1,0,1,0,0,0,0
+http://fednav.com/anglais/home.html,0,0,0,,10911,1,,35,2,0,0,0,com,0,0,1,0,0,0,0,1,1,0,1,0
+http://companycasuals.com/LimaMemorialHealthSystem,0,0,0,,9359,1,,50,1,0,0,0,com,0,2,0,0,0,0,0,1,0,1,1,0
+http://greatnorthroad.org/bboard/archives.php?period=200509,0,0,0,,8842,1,,59,2,0,0,2,org,0,0,6,0,1,1,0,0,0,0,0,0
+http://answers.yahoo.com/question/index?qid=20071217100457AA4KEZR,0,0,0,,11231,1,Yahoo Assets LLC,65,2,0,0,2,com,0,1,24,1,1,0,0,1,1,1,1,0
+http://veromi.com/Gregory-S-Churchill.aspx,0,0,0,,7434,1,"Domains By Proxy, LLC",42,2,2,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://disunplugged.com/2009/09/21/iron-chef-cat-cora-talks-about-kouzzina/,0,0,0,,6954,1,,75,1,6,0,0,com,0,1,45,0,0,1,1,0,0,0,0,0
+http://gotofino.com/grandprixprotourquebec/aboutgrandprixcyclistequebeccanada.html,0,0,0,,8467,1,"Domains By Proxy, LLC",82,2,0,0,0,com,0,0,43,1,0,1,0,0,0,0,0,0
+https://apbfiber.com/openme/95112345.exe,1,1,49,Let's Encrypt,2180,1,All Points Broadband,40,2,0,0,0,com,0,0,0,0,0,0,0,0,1,0,1,0
+http://cpimtelangana.com,0,0,0,,1356,1,"Domains By Proxy, LLC",24,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.terminaldemanizales.com/-/cielo/cielo/index.php,0,0,0,,0,0,,58,3,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://newyorkcity.sublet.com/,0,0,0,,11043,1,,30,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://mikeruiz.com/,0,0,0,,9564,1,,20,1,0,0,0,com,0,0,7,0,0,1,0,1,1,0,1,0
+http://myspace.com/indiansummermusicawardsmilwaukee,0,0,0,,10831,1,"Domains By Proxy, LLC",51,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://bestblackhatforum.com/Forum-BestBlackHatForum-Special-Offers-Forum&datecut=0&sortby=views&order=desc,0,0,0,,5300,1,"Domains By Proxy, LLC",107,1,4,0,6,com,0,3,5,1,0,1,0,0,0,0,0,0
+http://teamsets4u.com/checklist/1989/1989cal.html,0,0,0,,9227,1,"Domains By Proxy, LLC",49,2,0,0,0,com,0,0,5,0,0,0,3,0,0,0,0,0
+http://tools.ietf.org/html/rfc1677,0,0,0,,11179,1,,34,2,0,0,0,org,1,2,10,0,0,0,0,1,1,1,1,0
+http://naymz.com/jimtobin1072186,0,0,0,,7315,1,"Domains By Proxy, LLC",32,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://techcrunch.com/2015/02/12/at-the-techstars-rga-demo-day-ten-new-iot-companies-go-live/,0,0,0,,7434,1,"TechCrunch Media, LLC",93,1,11,0,0,com,0,1,33,1,1,1,3,1,1,1,1,0
+http://ceccatouruguay.com.uy,0,0,0,,0,0,,28,2,0,0,0,uy,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.caida.org/tools/visualization/otter/,0,0,0,,10703,1,,47,2,0,0,0,org,0,2,21,1,1,1,1,0,0,0,0,0
+http://usmarshals.gov/investigations/most_wanted/captured/index.html,0,0,0,,8659,1,REDACTED FOR PRIVACY,68,2,0,0,0,gov,0,0,14,1,1,1,1,1,1,1,1,0
+http://www.totesmeersalzgrotte.info/index.php?view=article&id=121:asthma-und-co&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=223,0,0,0,,0,0,,153,3,2,0,16,info,0,0,71,0,1,0,0,0,0,0,0,0
+http://amazon.co.uk/Ladies-Gentlemen-Floating-Space-Deluxe/dp/B002WA7CO8,0,0,0,,10670,1,,72,2,4,0,0,uk,0,1,2,0,1,1,0,1,0,0,0,0
+http://botcolony.com/partners.html,0,0,0,,6598,1,"Domains By Proxy, LLC",34,2,0,0,0,com,0,1,4,0,0,0,0,0,0,0,0,0
+http://home.sprynet.com/~rjstevenson/rpg/vandv.html,0,0,0,,10946,1,,51,3,0,0,0,com,0,0,0,0,0,0,0,1,1,0,1,0
+http://218.154.126.150:47788/.i,0,0,0,,0,0,,31,4,0,1,0,150:47788,0,0,0,0,0,0,0,0,0,0,0,0
+http://youtube.com/watch?v=Pnc-v0FrGj4,0,0,0,,7550,1,Google LLC,38,1,1,0,2,com,1,0,8,1,1,1,1,1,1,1,1,0
+http://jazzwrap.blogspot.com/2011/03/fred-hersch-at-vanguard.html,0,0,0,,0,0,,65,3,3,0,0,com,2,1,26,1,0,1,1,0,0,0,1,0
+http://www.hardcoreware.net/reviews/review-118-1.htm,0,0,0,,9358,1,Privacy service provided by Withheld for Privacy ehf,52,3,2,0,0,net,0,0,0,0,0,0,0,0,0,0,0,0
+http://youtube.com/watch?v=dBNMjpDmrFc,0,0,0,,7550,1,Google LLC,38,1,0,0,2,com,0,0,8,1,1,1,3,1,1,1,1,0
+http://evri.com/organization/ksjo-0x1436f5,0,0,0,,8020,1,Identity Protection Service,42,1,1,0,0,com,0,0,179,1,1,1,72,0,1,0,1,0
+http://danberry.com/our_team_agents/info/ANNEDAOU,0,0,0,,11036,1,,49,1,0,0,0,com,0,0,0,0,0,0,0,0,1,1,1,0
+http://argentinawarez.com/peliculas-gratis/339602-compleat-tex-avery-full.html,0,0,0,,6508,1,,78,2,5,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://artscenecal.com/Announcements/1207/SJHelfen1207.html,0,0,0,,11133,1,"Domains By Proxy, LLC",59,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://users11.jabry.com/reaseo/Aolupdate.htm,0,0,0,,6081,1,REDACTED FOR PRIVACY,45,3,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.giottoviaggi.it/ambienteseguro/cadastro/iniciando.html,0,0,0,,9375,1,,65,3,0,0,0,it,0,3,102,1,1,1,0,0,0,0,0,0
+http://www.bg-ricevimenti.it/index.php/eventi/cene-di-gala.html?fontstyle=f-default,0,0,0,,7900,1,,83,4,4,0,2,it,0,0,0,0,0,0,0,0,0,0,0,0
+http://en.wikipedia.org/wiki/Don_Thompson,0,0,0,,9044,1,,41,2,0,0,0,org,0,2,18,1,1,1,0,1,0,0,1,0
+http://wiredforbooks.org/robertpinsky/,0,0,0,,9597,1,,38,1,0,0,0,org,0,0,0,0,0,0,0,0,0,0,0,0
+http://epinions.com/review/Marriott_Montreal_Chateau_Champlain/content_262616223364,0,0,0,,9745,1,eBay Marketplaces GmbH,83,1,0,0,0,com,0,0,0,0,0,0,0,1,0,1,1,0
+http://69.89.31.128/~muirptao/?page_id=2540,0,0,0,,0,0,,43,3,0,1,2,128,0,0,0,0,0,0,0,0,0,0,0,0
+http://ndp.ca/press/reality-check-dimitri-soudas-uses-jedi-defence,0,0,0,,9117,1,,66,1,6,0,0,ca,1,1,66,0,1,1,0,0,1,0,0,0
+http://mediagallery.usatoday.com/Kansas+Jayhawks,0,0,0,,11495,1,Gannett Media Corp,48,2,0,0,0,com,0,1,69,1,1,1,8,1,1,1,1,0
+http://aimnawnt.beget.tech,0,0,0,,3336,1,,26,2,0,0,0,tech,0,0,0,0,0,0,0,0,0,0,0,0
+http://thesecuritysoftwarescannerindustrgreat.duckdns.org/all/black.exe,0,0,0,,0,0,,71,3,0,0,0,org,0,0,0,0,0,0,0,0,0,0,0,0
+http://zoominfo.com/people/Redpath_Brian_516809584.aspx,0,0,0,,8037,1,ZoomInfo Technologies Inc,55,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://imdb.com/name/nm0566052/,0,0,0,,10879,1,"IMDb.com, Inc.",31,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://victormature.org/,0,0,0,,8996,1,,24,1,0,0,0,org,0,0,0,0,0,0,0,0,1,0,0,0
+http://1337x.to/torrent/1101695/Marvels-Agents-of-S-H-I-E-L-D-S02E13-HDTV-x264-KILLERS-ettv/,0,0,0,,1081,1,,92,1,13,0,0,to,1,0,0,0,0,0,0,0,0,0,0,0
+http://myspace.com/chicago_fire,0,0,0,,10831,1,"Domains By Proxy, LLC",31,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://bikramyogahampden.com/old_site/uploads/index.htm,0,0,0,,0,0,,55,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://cbs.com/late_night/late_show/,0,0,0,,11629,1,CBS Broadcasting Inc.,36,1,0,0,0,com,0,0,45,1,1,1,6,0,1,0,0,0
+http://rundoxierun.com/,0,0,0,,0,0,,23,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://wwar.com/masters/m/morrice-james_wilson.html,0,0,0,,10801,1,"Domains By Proxy, LLC",51,2,1,0,0,com,0,0,2,0,0,0,0,0,0,0,0,0
+http://indianexpress.com/article/trending/shoot-guns-with-navy-seal-who-killed-osama-for-usd-50000/,0,0,0,,8551,1,"Domains By Proxy, LLC",99,1,10,0,0,com,1,0,42,1,1,1,2,0,1,0,0,0
+https://twitter.com/home?status=%E3%83%8C%E3%81%91%E3%82%8B%EF%BC%81%E3%80%90%E5%B7%A8%E4%B9%B3%E3%80%91+http%3A%2F%2Fero-video.net%2Ft%2F8dbKHk3K0SDoV1x7+%E3%81%8A%E3%81%A3%E3%81%A8%E3%82%8A%E7%B3%BB%E3%81%AE%EF%BC%A8%E3%82%AB%E3%83%83%E3%83%97%E7%88%86%E4%B9%B3%E5%A8%98%E3%80%80%E3%81%BE%E3%81%93%E3%81%A1%E3%82%83%E3%82%93++%23ero+%23douga+%23agesage,1,1,85,Let's Encrypt,9401,1,,354,2,1,0,91,com,0,1,6,1,1,0,4,1,1,1,1,0
+http://realestate.aol.com/archive/general,0,0,0,,11076,1,AOL Media LLC,41,2,0,0,0,com,0,1,188,1,1,1,11,1,1,1,1,0
+http://codecanyon.net/item/dont-miss-addictive-dots-game/full_screen_preview/11251028,0,0,0,,5833,1,"Shutterstock, Inc.",85,1,4,0,0,net,0,0,0,0,0,0,0,0,1,0,1,0
+http://borellotravel.com/mininews/tangointernacional.html,0,0,0,,8782,1,,57,2,0,0,0,com,0,2,8,0,0,1,0,0,0,1,0,0
+http://maisconquiste.com/novo/perfil/,0,0,0,,0,0,,37,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://sanfranciscobay.sierraclub.org/,0,0,0,,11674,1,,38,2,0,0,0,org,1,1,32,1,1,1,1,1,1,0,1,0
+http://forum.dancehallreggae.com/showthread.php/22678-Great-Reggae-Musicians!,0,0,0,,9987,1,Super Privacy Service LTD c/o Dynadot,77,3,3,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.id8-eu.co.uk/identify-customer=59XWJ2S3BaiXqKqEwkImPf2iMwOEBsSsLvMZiYi4FhIPlWpafBkYouVFjCkTvD2ZKnHjWP29REbmtvI84GLbEhW3yoYsqO1j9ij3/,0,0,0,,0,0,,200,11,3,0,1,uk,0,0,0,0,0,0,0,0,0,0,0,0
+http://lookingforfilm.com/,0,0,0,,0,0,,26,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://imdb.com/name/nm0666604/,0,0,0,,10879,1,"IMDb.com, Inc.",31,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://tools.ietf.org/html/rfc952,0,0,0,,11179,1,,33,2,0,0,0,org,1,0,14,0,0,0,1,1,1,1,1,0
+http://www.webring.com/hub?ring=palladium,0,0,0,,10193,1,Privacy service provided by Withheld for Privacy ehf,41,2,0,0,2,com,0,4,35,1,1,1,0,0,0,0,0,0
+http://census-online.us/view/STULL/,0,0,0,,6684,1,,35,1,1,0,0,us,0,0,0,0,0,0,0,1,0,0,0,0
+http://bestaviation.net/jobs/air_transat/,0,0,0,,8587,1,DATA REDACTED,41,1,0,0,0,net,0,0,27,0,1,1,0,0,1,0,1,0
+http://arts.columbia.edu/visual-arts/gregory-amenoff,0,0,0,,14715,1,,52,2,2,0,0,edu,0,0,0,0,0,0,0,1,1,0,1,0
+http://amazon.com/Best-Loose-Ends/dp/B000095SKX,0,0,0,,11309,1,"Amazon Technologies, Inc.",47,1,2,0,0,com,0,1,2,0,1,1,0,1,0,0,0,0
+http://comarcabrasil.com.br/index.php/campanhas/190-consumidores-fraudulentos-reflexoes-sobre-o-novo-indice-serasa,0,0,0,,0,0,,114,3,8,0,0,br,0,0,0,0,0,0,0,0,0,0,0,0
+http://45.143.221.60/Pandoras_Box/pandora.x86,0,0,0,,0,0,,45,4,0,1,0,60,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.antonov-vrtec.si/sodelovanje-s-stari,0,0,0,,6079,1,,47,2,3,0,0,si,0,1,0,0,0,0,0,0,1,0,0,0
+http://juggle.com/felicia-farr,0,0,0,,10476,1,"Domains By Proxy, LLC",30,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://allhighschools.com/school/lima-high-school/999010651,0,0,0,,7311,1,"Domains By Proxy, LLC",59,1,2,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://farmaciaboahora.com/index.php?option=com_jevents&task=week.listevents&year=2013&month=02&day=3&Itemid=1,0,0,0,,0,0,,110,3,0,0,12,com,0,0,0,0,0,0,0,0,0,0,0,0
+https://mitsui-jyuku.mixh.jp/uploads/224ODNO38B.exe,1,1,57,Let's Encrypt,2639,1,,51,3,1,0,0,jp,0,0,0,0,0,0,0,0,0,0,0,0
+http://holsteinquebec.com/english,0,0,0,,9769,1,"Domains By Proxy, LLC",33,1,0,0,0,com,0,1,4,0,0,1,0,0,0,0,0,0
+http://en.wikipedia.org/wiki/Stephen_Hunter,0,0,0,,9044,1,,43,2,0,0,0,org,0,2,63,1,1,1,0,1,0,0,1,0
+http://hockey-reference.com/teams/FLA/,0,0,0,,9084,1,Identity Protection Service,38,1,1,0,0,com,1,1,91,1,1,0,0,1,0,0,0,0
+http://artarq.com.br,0,0,0,,821,1,,20,2,0,0,0,br,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.modecentrum-leipzig.de/sejeal.jpg,0,0,0,,0,0,,44,3,1,0,0,de,0,0,9,0,0,0,0,0,0,0,0,0
+http://northfolkstalesoriginal.com,0,0,0,,0,0,,34,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://royalfarm-eg.com/index.php?option=com_k2&view=item&id=30:fine-beans&Itemid=218,0,0,0,,0,0,,85,2,2,0,8,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://bollucatml.k12.tr/index.php?option=com_content&view=article&id=75&Itemid=50,0,0,0,,0,0,,82,3,0,0,8,tr,0,0,0,0,0,0,0,0,0,0,0,0
+http://bloomberg.com/news/2011-03-03/delta-electronics-of-taiwan-considers-acquisitions-to-boost-solar-output.html,0,0,0,,11707,1,,114,2,11,0,0,com,1,0,130,1,1,1,9,1,1,1,1,0
+http://www.gottadanceonline.com/index.php/summer,0,0,0,,8869,1,,48,3,0,0,0,com,0,2,2,1,1,1,0,1,0,0,1,0
+http://bdnews24.com/science/2015/04/24/genome-study-reveals-lonely-end-for-the-world-s-woolly-mammoths,0,0,0,,7721,1,Redacted for Privacy,102,1,10,0,0,com,0,0,1,0,0,0,0,0,1,0,0,0
+http://bestblackhatforum.com/Thread-GET-300k-Email-List-With-Pass-Best-For-Solo-Ads?action=lastpost,0,0,0,,5300,1,"Domains By Proxy, LLC",99,1,10,0,2,com,0,1,6,1,0,1,0,0,0,0,0,0
+http://westwindwebdesign.com/component/content/article/3-news/38-static-websites-an-affordable-website-solution.html,0,0,0,,0,0,,116,2,7,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://manta.com/c/mt5wmlx/perry-plumbing,0,0,0,,7953,1,Identity Protection Service,41,1,1,0,0,com,0,0,0,0,0,0,0,0,1,0,1,0
+http://members.tripod.com/~biglug/index.html,0,0,0,,11342,1,"Domains By Proxy, LLC",44,3,0,0,0,com,1,0,1,1,0,0,2,0,1,0,0,0
+http://legacy.com/obituaries/winstonsalem/obituary.aspx?n=donald-gray-tilley-duck&pid=127688283,0,0,0,,11582,1,,95,2,3,0,4,com,0,0,0,0,0,0,1,0,1,0,1,0
+http://hillcollege.edu/athletics/?aid=13&mod=Coach&dept=12,0,0,0,,7831,1,,58,1,0,0,6,edu,0,0,0,0,0,0,0,0,0,0,0,0
+http://streck.com.br/wp-includes/js/crop/xinklin,0,0,0,,9283,1,,48,2,1,0,0,br,0,2,60,0,0,1,0,0,0,0,0,0
+http://legacy.com/guestbook/herald/guestbook.aspx?n=andrew-degraffenreidt&pid=124646875&page=3,0,0,0,,11582,1,,94,2,1,0,6,com,0,0,0,0,0,0,0,0,1,0,1,0
+http://stubhub.com/marc-andre-hamelin-tickets/,0,0,0,,9247,1,"Stubhub, Inc.",46,1,3,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://buzzfil.net/article/5292/buzz/quelle-emotion-vin-diesel-chante-en-rendant-hommage-a-paul-walker-9.html?href=inner_website,0,0,0,,3903,1,REDACTED FOR PRIVACY,128,2,11,0,2,net,0,0,0,0,0,0,0,0,0,0,0,0
+http://youtube.com/watch?v=PbDmfDeb178,0,0,0,,7550,1,Google LLC,38,1,0,0,2,com,0,0,8,1,1,1,2,1,1,1,1,0
+http://bestkingcountyrealestate.com/,0,0,0,,6035,1,"Domains By Proxy, LLC",36,1,0,0,0,com,0,0,0,0,0,0,0,0,0,1,0,0
+http://goliath.ecnext.com/coms2/product-compint-0000222250-page.html,0,0,0,,10007,1,Identity Protection Service,68,3,3,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://digilander.libero.it/redouane1987/ecco.html,0,0,0,,9634,1,,50,3,0,0,0,it,0,2,36,1,1,0,0,0,1,0,0,0
+http://new-jersey.aspe.org/,0,0,0,,10454,1,,27,2,1,0,0,org,0,0,0,0,0,0,1,1,1,0,1,0
+http://114.93.95.188:33895/.i,0,0,0,,0,0,,29,4,0,1,0,188:33895,0,0,0,0,0,0,0,0,0,0,0,0
+http://freeworldradionetwork.net/,0,0,0,,0,0,,33,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.hpdeelnemersraad.nl/index.php?option=com_mailto&tmpl=component&link=aHR0cDovL3d3dy5ocGRlZWxuZW1lcnNyYWFkLm5sL2luZGV4LnBocD9vcHRpb249Y29tX2NvbnRlbnQmdmlldz1hcnRpY2xlJmlkPTMxOm1pam4tcGVuc2lvZW5vdmVyemljaHQtYWN0aWVmJmNhdGlkPTY6bmlldXdzJkl0ZW1pZD01,0,0,0,,0,0,,255,3,0,0,6,nl,0,0,0,0,0,0,0,0,0,0,0,0
+http://haahmad.com/images/remax/index.htm,0,0,0,,0,0,,41,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://internet-bankacilik-giris.com,0,0,0,,0,0,,36,1,2,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.amaanatours.co.uk/resources/forms/hajjinterest,0,0,0,,8028,1,,57,3,0,0,0,uk,0,0,4,0,0,0,2,0,1,0,0,0
+http://shelbycountytexashistory.org/Shelby/cem_pics/cem_reynolds.htm,0,0,0,,8169,1,,68,2,0,0,0,org,0,0,5,0,0,0,0,0,1,0,0,0
+http://hotelplanner.com/Hotels/28499-NEAR-Lake-Merritt,0,0,0,,8171,1,"Domains By Proxy, LLC",54,1,3,0,0,com,0,2,256,1,1,1,0,1,0,0,0,0
+http://rachaelparrott.000webhostapp.com,0,0,0,,3446,1,GDPR Masked,39,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.superhost.net.br/renew.php,0,0,0,,0,0,,37,4,0,0,0,br,0,0,0,0,0,0,0,0,0,0,0,0
+http://acces.nepasmanquer.com/a.php,0,0,0,,4783,1,Whois Privacy Corp.,35,3,0,0,0,com,0,1,1,1,1,1,0,0,0,0,0,0
+http://sourceforge.net/projects/sodipodi,0,0,0,,9568,1,"Domains By Proxy, LLC",40,1,0,0,0,net,0,5,14,1,1,1,0,1,1,1,1,0
+http://bayanicgiyimsitesi.somee.com,0,0,0,,8260,1,,35,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://zip-code.en.mapawi.com/canada/4/quebec/1/11/qc/ville-emard/h4e/1360/,0,0,0,,5720,1,Jewella Privacy LLC Privacy ID# 13754267,75,3,2,0,0,com,1,1,4,1,1,1,0,0,0,0,0,0
+http://167.71.167.129/SBIDIOT/arm,0,0,0,,5035,1,Privacy service provided by Withheld for Privacy ehf,33,3,0,1,0,129,1,0,0,0,0,0,0,0,0,0,0,0
+http://jhiadsdf.000webhostapp.com,0,0,0,,3446,1,GDPR Masked,33,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://nam.x-y.net/bbs/data/essay/remax/index.htm,0,0,0,,9689,1,,49,3,1,0,0,net,0,0,0,0,0,0,0,0,0,0,0,0
+http://imdb.com/name/nm1752487/,0,0,0,,10879,1,"IMDb.com, Inc.",31,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.nephotography.com.au/environment,0,0,0,,0,0,,43,3,0,0,0,au,0,0,0,0,0,0,0,0,0,0,0,0
+http://tennisfame.com/hall-of-famers/gene-mako,0,0,0,,9304,1,,46,1,3,0,0,com,1,0,0,0,0,0,0,1,0,1,0,0
+http://javadoplant.nl/de.html?start=32,0,0,0,,8578,1,,38,2,0,0,2,nl,0,3,33,0,1,1,0,0,0,0,0,0
+http://groups.yahoo.com/group/millenniumplus5ngonetwork/messages/748,0,0,0,,11231,1,Yahoo Assets LLC,68,2,0,0,0,com,0,2,485,1,1,0,8,1,1,1,1,0
+http://archive.org/stream/members1894demo/members1894demo_djvu.txt,0,0,0,,10901,1,,66,2,0,0,0,org,0,4,16,1,0,1,0,1,0,1,0,0
+http://transcurrents.com/tc/2010/05/louise_arbour_on_the_responses.html,0,0,0,,7168,1,"Domains By Proxy, LLC",71,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,1,0
+http://hondapoughkeepsie.com/wp-content/languages/product/Email-Alibaba_shopping_page&amp;.srcproduct=93433.html,0,0,0,,0,0,,112,3,2,0,2,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://ubs-online-digital.com,0,0,0,,0,0,,29,1,2,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://state.gov/r/pa/ei/bgn/3237.htm,0,0,0,,10243,1,REDACTED FOR PRIVACY,37,2,0,0,0,gov,0,0,0,0,0,0,22,0,0,0,0,0
+http://exposay.com/jason-reitman-and-michele-lee-juno-los-angeles-premiere/p/15551/1/?f=Jason+Reitman+and+Michele+Lee,0,0,0,,7147,1,,117,1,8,0,2,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://rodriguesvendas.com,0,0,0,,0,0,,26,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://pastehtml.com/view/b46s81spf.html,0,0,0,,6108,1,Super Privacy Service LTD c/o Dynadot,40,2,0,0,0,com,0,0,2,1,0,0,0,0,1,0,1,0
+http://www.rendeck.nl/index.php/nl.1,0,0,0,,29,1,,36,4,0,0,0,nl,0,0,0,0,0,0,0,0,0,0,0,0
+http://iammusiccompany.com/artists.html,0,0,0,,7645,1,"Domains By Proxy, LLC",39,2,0,0,0,com,0,1,1,0,1,1,0,0,0,0,0,0
+http://traveldailynews.com/pages/show_page/45490-Air-Astana-passes-third-IATA-operational-safety-audit,0,0,0,,9698,1,Statutory Masking Enabled,102,1,8,0,0,com,0,0,1,0,0,0,0,0,1,0,1,0
+http://bollywoodhungama.com/celebrities/filmography/7515/index.html,0,0,0,,9530,1,Hungama Digital Media Entertainment Pvt. Ltd,67,2,0,0,0,com,1,4,458,1,1,1,0,1,0,0,0,0
+http://westcorporation.com/,0,0,0,,10011,1,,27,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://livecoupon.us/wp-content/themes/twentyeleven/asbscurities/user.php,0,0,0,,0,0,,73,2,1,0,0,us,0,0,0,0,0,0,0,0,0,0,0,0
+http://usedmontreal.com/classified-ad/Montreal-514-817-6424-Fridge-Repair--Reparation-Refrigerateur_13088183,0,0,0,,8017,1,"Domains By Proxy, LLC",108,1,9,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://outsidemma.com/2010/100051-tom-kong-watson-bamma-3.php,0,0,0,,0,0,,61,2,5,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://beachwoodcanyon.org/HISTORY.htm,0,0,0,,9965,1,,38,2,0,0,0,org,0,0,2,0,0,1,0,1,1,0,1,0
+http://lammertbies.nl/comm/index.html,0,0,0,,10084,1,,37,2,0,0,0,nl,2,0,20,0,0,0,0,1,1,0,1,0
+http://www.kretingosmuziejus.lt/apie-mus/dvaro-parkas/19-svetaines-startas,0,0,0,,6689,1,,74,2,4,0,0,lt,0,1,5,1,0,1,0,0,0,0,0,0
+http://footballfanatics.com/COLLEGE_Syracuse_Orange_Shorts_And_Pants,0,0,0,,10461,1,"Fanatics, LLC",68,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://pardeedhsd7.sharpschool.com/,0,0,0,,8163,1,,35,2,0,0,0,com,0,0,0,0,0,0,0,0,1,0,0,0
+http://biomedexperts.com/Profile.bme/1337556/Marco_Spada,0,0,0,,6833,1,,56,2,0,0,0,com,0,0,2,0,0,1,0,0,1,1,1,0
+http://insidetv.ew.com/2011/03/08/nbc-season-finales-announced-office-community-parks-get-hour-long-closers/,0,0,0,,11420,1,Meredith Operations Corporation,108,2,10,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://kenh14.vn/star/bo-chong-duong-mich-bao-ve-con-dau-giua-scandal-nhay-cam-20150514120833414.chn,0,0,0,,0,0,,100,2,12,0,0,vn,0,0,12,1,0,1,0,0,0,0,0,0
+http://freshpatents.com/Robert-J-Libman-Champaign-invdirl.php,0,0,0,,8811,1,"Domains By Proxy, LLC",61,2,4,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://paypal.com.update-account-information-webscrcmdaccountnav-0.04fs6sd54s3dv3sd7dvs369sdv13s25ef4d4ew7c52a65aefeffgfg6dsfsjk.rtd.es/update/information/webscrcmdflowSESSION.nBFNzG.S.3T0j7cmGPoMFY/login/account/33dda389fd8b24c7d6909a67e0d54a0f,0,0,0,,0,0,,245,8,4,0,0,es,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.klavierhaus-alber.de/index.php?option=com_content&view=article&id=59:klavierwerkstatt&catid=38:werkstatt&Itemid=86,0,0,0,,0,0,,125,3,1,0,10,de,0,0,0,0,0,0,0,0,0,0,0,0
+http://olx.ua/uk/list/q-%D0%B1%D0%BE%D1%81%D0%BE%D0%BD%D0%BE%D0%B6%D0%BA%D0%B8/?view=galleryWide,0,0,0,,4615,1,,96,1,1,0,20,ua,0,1,20,1,1,1,14,1,1,1,1,0
+http://spoke.com/info/p1deaWE/RonenMagid,0,0,0,,10540,1,"Domains By Proxy, LLC",40,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://viva-sport.com/index.php?page=shop.browse&category_id=11&option=com_virtuemart&Itemid=54,0,0,0,,433,1,ORGANIZATION NAME MASKED,95,3,1,0,8,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.taner.gen.tr/wp-content/uploads/2015/06/update-info/update-info/update/,0,0,0,,0,0,,82,3,3,0,0,tr,0,0,0,0,0,0,0,0,0,0,0,0
+http://fix-mac-apple-error-alert.info,0,0,0,,0,0,,37,1,4,0,0,info,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.usenix.org/publications/library/proceedings/als00/2000papers/papers/full_papers/michalickova/michalickova.pdf,0,0,0,,13976,1,,120,3,0,0,0,org,0,0,0,0,0,0,0,1,0,1,1,0
+http://www.marketingendesign.nl/recap2010/92-programma-mad-2010,0,0,0,,5786,1,,63,2,3,0,0,nl,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.absolutecross.com/graphics/textures/,0,0,0,,9783,1,,47,2,0,0,0,com,0,0,10,0,0,1,0,0,0,0,0,0
+http://olx.ua/uk/list/q-%d0%b2%d0%b5%d0%bb%d0%be%d1%81%d0%b8%d0%bf%d0%b5%d0%b4%d1%8b/bIE64RPKp0urlDE3vSbHw8dRLeUY1kOFK2_KOEmw9UT.A7/,0,0,0,,4615,1,,132,2,1,0,20,ua,0,1,20,1,1,1,14,1,1,1,1,0
+http://australianewzealandwines.com.au/wines.php?X=Seppelt%20Chalambar%20Shiraz%202008&seek=Bendigo%20Wines&page=0,0,0,0,,0,0,,114,3,0,0,10,au,0,0,0,0,0,0,0,0,0,0,0,0
+http://brusselsairlines.com/com/book/flights/,0,0,0,,8662,1,Brussels Airlines,45,1,0,0,0,com,0,0,0,0,0,0,0,0,0,1,0,0
+http://ukrhistory.tripod.com/page-21.html,0,0,0,,11342,1,"Domains By Proxy, LLC",41,3,1,0,0,com,0,0,8,1,0,0,0,0,0,0,0,0
+http://www.mondiallogistics-eg.com/dansk30nl1n3s3cur3d/,0,0,0,,6085,1,,55,2,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://mlbfansite.com/team-memorabilia/st.-louis-cardinals/autographed-baseball-gloves/,0,0,0,,7605,1,"Fanatics, LLC",87,2,5,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.lacollina.org/lavora-con-noi.html?tmpl=component&print=1&page=,0,0,0,,8499,1,,73,3,2,0,6,org,0,0,5,0,1,1,0,0,0,0,0,0
+http://www.cnhedge.cn/js/index.htm?us.battle.net/login/en/?ref=bgdpoirus.battle.net/d3/en/index&amp;app=com-d3,0,0,0,,311,1,,110,7,1,0,5,cn,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.mrwolfkids.com.au/www.paypal.com.webscrlcmdl.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8dcbcd55a50598f04d9273303713ba313.5885d80a13c0db1f8e263663d3f.aee811d01j111yh0111isl153364wxeexfo100011s/index.php,0,0,0,,0,0,,222,13,0,0,0,au,0,0,1,1,0,1,0,0,0,0,0,0
+http://webring.com/hub?ring=wargamers,0,0,0,,10193,1,Privacy service provided by Withheld for Privacy ehf,37,1,0,0,2,com,0,4,0,1,1,1,0,0,0,0,0,0
+http://pipl.com/directory/people/Allan/Corder,0,0,0,,9455,1,"Domains By Proxy, LLC",45,1,0,0,0,com,1,0,0,0,0,0,0,0,0,0,0,0
+http://printerparts.co.ke/mxfkvn/bankofamerica/index.html,0,0,0,,0,0,,57,3,0,0,0,ke,0,0,0,0,0,0,0,0,0,0,0,0
+http://huskers.com/ViewArticle.dbml?DB_OEM_ID=100&ATCLID=4039,0,0,0,,11075,1,Privacy service provided by Withheld for Privacy ehf,61,2,0,0,4,com,0,0,0,0,0,0,0,1,0,0,0,0
+http://rabbikramerslegacy.com/tributes/interviews/item/41-enid-backman,0,0,0,,4077,1,,70,1,2,0,0,com,0,3,26,0,0,1,0,0,0,0,0,0
+http://biggsgolftalk.com/,0,0,0,,5376,1,Contact Privacy Inc. Customer 0161083327,25,1,0,0,0,com,0,0,0,1,0,0,0,1,1,0,1,0
+http://yelp.com/biz/nibs-restaurant-el-cerrito-2,0,0,0,,7980,1,Yelp Inc.,48,1,4,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://tx-motels-review.com/?n=albany&id=16469&t=city,0,0,0,,0,0,,53,1,2,0,6,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://herbworldblog.com/,0,0,0,,0,0,,25,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://serverfault.com/questions/599846/why-can-blocked-ips-get-through-my-iptables-whats-wrong-with-this-configuratio,0,0,0,,6061,1,,118,1,12,0,0,com,0,1,78,1,1,1,0,1,1,1,0,0
+http://www.yzsyedu.com/info_Show.aspx?typeid=31&id=116&newtype=4,0,0,0,,0,0,,64,3,0,0,6,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://twitter.com/fredysilva_,0,0,0,,9401,1,,30,1,0,0,0,com,0,1,6,1,1,0,4,1,1,1,1,0
+http://novotel.com/gb/hotel-1826-novotel-cotonou-orisha/index.shtml,0,0,0,,10418,1,,67,2,4,0,0,com,0,0,89,1,1,1,6,1,1,0,1,0
+http://docs.google.com/forms/d/1VkUc7ZGUKbtlHrexCgfekUKzIyEymgDKtc49uNaW3Nk/viewform,0,0,0,,10260,1,Google LLC,84,2,0,0,0,com,0,0,1,0,0,0,0,0,1,1,1,0
+http://jenniferhoyle.com/modules/mod_footer/lloydstsb/,0,0,0,,291,1,Whois Privacy Protection Service by onamae.com,54,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://youtube.com/watch?v=vFgI3ekAmeM,0,0,0,,7550,1,Google LLC,38,1,0,0,2,com,1,0,8,1,1,1,4,1,1,1,1,0
+http://www.mit.edu/people/proven/IAP_2000/index.html,0,0,0,,14758,1,,52,3,0,0,0,edu,0,0,1,0,0,0,0,0,1,1,0,0
+http://www.cargocollective.com/micahkandros,0,0,0,,6091,1,,43,2,0,0,0,com,0,0,3,0,0,0,0,0,0,0,0,0
+http://superpages.com/bp/Kansas-City-MO/KMBC-TV-L0144014538.htm,0,0,0,,10853,1,,63,2,4,0,0,com,0,0,1,0,0,0,0,0,1,0,0,0
+http://linkedin.com/in/callkathybaker,0,0,0,,8385,1,LinkedIn Corporation,37,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://youtube.com/watch?v=Tvx0m5blnH4,0,0,0,,7550,1,Google LLC,38,1,0,0,2,com,0,0,8,1,1,1,4,1,1,1,1,0
+http://ebay.com/itm/RICK-MARTEL-8-X-10-WRESTLING-PHOTO-/270836668741,0,0,0,,11033,1,eBay Inc.,68,1,7,0,0,com,1,1,44,1,1,1,0,1,1,0,1,0
+http://companydatabase.org/c/potatoes-wholesale/potato-chips/tiger-distributors-inc.html,0,0,0,,1521,1,,88,2,4,0,0,org,0,0,0,0,0,0,0,0,0,0,0,0
+http://myspace.com/dashumans/videos/video/63148678,0,0,0,,10831,1,"Domains By Proxy, LLC",50,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://klinkhoff.com/canadian-artist/jw-morrice,0,0,0,,9032,1,Galerie Alan klinkhoff Inc.,47,1,2,0,0,com,0,0,0,1,0,0,0,0,0,0,0,0
+http://thefreedictionary.com/Lorne,0,0,0,,8170,1,DATA REDACTED,34,1,0,0,0,com,0,0,0,0,0,0,0,0,1,0,1,0
+http://b44.com/tube/lara%20roxx%20anal/tube8.com/page1.html,0,0,0,,9675,1,c/o whoisproxy.com,59,3,0,0,2,com,0,1,1,0,0,0,6,0,0,0,0,0
+http://people.famouswhy.com/anke_engelke/,0,0,0,,7149,1,REDACTED FOR PRIVACY,41,2,0,0,0,com,0,1,23,0,0,0,2,0,0,0,0,0
+http://bathurstbaptist.org.au/home/contact-us/7/5-church-office.html,0,0,0,,0,0,,68,3,3,0,0,au,0,0,10,1,0,1,0,1,1,1,1,0
+http://trendsbrands.com/index.html,0,0,0,,3990,1,HugeDomains.com,34,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://sites.google.com/site/gratefulcrane/past,0,0,0,,10260,1,Google LLC,47,2,0,0,0,com,0,2,4,1,1,0,1,1,1,1,1,0
+http://www.escueladeeconomiaynegocios.com/index.php?Itemid=60&option=com_zoo&view=category&category_id=4&page=1,0,0,0,,0,0,,111,3,0,0,10,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.sv-rotamint.de/index.php/termine/month.calendar/2012/12/29/-,0,0,0,,0,0,,71,4,2,0,0,de,0,2,33,1,0,0,0,0,0,0,0,0
+http://kudzu.com/m/Dante's-Studio-Tattoo-20057901,0,0,0,,11177,1,,49,1,3,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://youtube.com/watch?v=Qc2wJfX4WmM,0,0,0,,7550,1,Google LLC,38,1,0,0,2,com,0,0,8,1,1,1,3,1,1,1,1,0
+http://rugbyunion.wikia.com/wiki/Ireland_national_rugby_union_team,0,0,0,,7984,1,Contact Privacy Inc. Customer 0130027609,66,2,0,0,0,com,1,0,103,1,1,1,0,1,0,1,1,0
+http://besibajasby.com/tag/besi-cnp/index.html,0,0,0,,0,0,,46,2,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://associatedcontent.com/article/8343221/two_skateparks_in_oakland_calif_demolished.html,0,0,0,,7979,1,Yahoo IP Holdings LLC,92,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.keve-kiserdo.hu/index.html,0,0,0,,0,0,,37,3,1,0,0,hu,0,0,0,0,0,0,0,0,0,0,0,0
+http://tncbio.com/system/application/views/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/templates/directory/images/cgi-bin/8394e555b26c24abf5b7839dc18d7e9f/webscr.htm,0,0,0,,5604,1,,179,2,1,0,0,com,0,2,1,1,1,1,0,0,0,0,0,0
+http://olx.co.id/i2/elektronik-gadget/komputer/printer-tinta-scanner/elektronik-gadget/komputer/printer-tinta-scanner,0,0,0,,0,0,,117,2,6,0,0,id,0,0,0,0,0,0,0,0,0,0,0,0
+http://spoke.com/info/p6KMJ7U/GuyLaPointe,0,0,0,,10540,1,"Domains By Proxy, LLC",41,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://yukyuks.com/,0,0,0,,11056,1,REDACTED FOR PRIVACY,19,1,0,0,0,com,0,0,0,0,0,0,0,0,1,0,1,0
+http://cleaningservicesfinder.com/,0,0,0,,7266,1,"Domains By Proxy, LLC",34,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://absolutemartialarts.net/id35.html,0,0,0,,7935,1,Technical Innovations LLC,40,2,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,0
+http://michigan.org/Property/Detail.aspx?p=G19738,0,0,0,,10323,1,,49,2,0,0,2,org,0,0,0,0,0,0,1,0,1,0,1,0
+http://qz.com/396844/pacquiao-may-have-lost-but-filipinos-won-big-with-delicious-feasts/,0,0,0,,9704,1,Privacy service provided by Withheld for Privacy ehf,88,1,10,0,0,com,0,0,1,0,0,0,0,0,1,0,0,0
+http://www.wijstaanvoordewijk.nl/home/83-mantelzorg.html,0,0,0,,0,0,,56,3,1,0,0,nl,0,0,0,0,0,0,0,0,0,0,0,0
+http://chiefsblog.kansascity.com/?q=node/1659,0,0,0,,10829,1,,45,2,0,0,2,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://absoluteastronomy.com/topics/U.S._Route_82,0,0,0,,9165,1,Statutory Masking Enabled,49,3,0,0,0,com,0,0,2,1,0,0,0,0,0,0,0,0
+http://www.kospel.pl/pl/produkty/wymienniki-i-zasobniki-cwu.html,0,0,0,,9353,1,,64,3,3,0,0,pl,0,1,195,1,0,1,2,0,0,0,0,0
+http://ecipay.com/,0,0,0,,10006,1,Privacy service provided by Withheld for Privacy ehf,18,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://en.wikipedia.org/wiki/Alys,0,0,0,,9044,1,,33,2,0,0,0,org,0,2,19,1,1,1,0,1,0,0,1,0
+http://nfl.com/goto?id=09000d5d8018bef5,0,0,0,,10743,1,NFL Enterprises LLC,39,1,0,0,2,com,1,0,0,0,1,0,0,1,0,0,1,0
+http://www.stresscure.com/jobstress/speak.html,0,0,0,,10915,1,,46,3,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://thecanadiancharger.com/page.php?id=5&a=284,0,0,0,,6234,1,REDACTED FOR PRIVACY,49,2,0,0,4,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.ex-forex.info/ourfriends/index.html?part=6,0,0,0,,0,0,,53,3,1,0,2,info,0,0,0,0,0,0,0,0,0,0,0,0
+http://jcmt.nl/index.html,0,0,0,,0,0,,25,2,0,0,0,nl,0,0,0,0,0,0,0,0,0,0,0,0
+http://musicvideoswiz.com/artist/Karkwa/lyrics,0,0,0,,731,1,Privacy service provided by Withheld for Privacy ehf,46,1,0,0,0,com,0,0,0,0,0,1,0,0,0,0,0,0
+http://dailymotion.com/video/x1wcpl_070430-zoom-in-arashi-tokyo-dome_tech,0,0,0,,7521,1,DAILYMOTION,73,1,5,0,0,com,0,0,0,1,0,0,0,1,0,0,0,0
+http://members.tripod.com/chicagotheroarin20s/,0,0,0,,11342,1,"Domains By Proxy, LLC",46,2,0,0,0,com,0,0,0,0,0,0,0,0,1,0,0,0
+http://ps2.gamespy.com/playstation-2/harry-potter-and-the-goblet-of-fire/,0,0,0,,10398,1,,73,2,7,0,0,com,0,1,84,1,1,1,0,0,0,0,0,0
+http://fibetv.bell.ca/en/programming/,0,0,0,,9137,1,,37,2,0,0,0,ca,0,0,0,0,0,0,0,0,0,0,0,0
+http://linkedin.com/pub/bryan-kash/4/a28/6a4,0,0,0,,8385,1,LinkedIn Corporation,44,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://pearldrummersforum.com/showthread.php?181134-Chris-Benoit-jokes,0,0,0,,8117,1,,70,2,3,0,1,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.unitre.org/index.php?option=com_wrapper&view=wrapper&Itemid=183,0,0,0,,7263,1,,74,3,0,0,6,org,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.ietf.org/1id-abstracts.html,0,0,0,,11179,1,,38,3,1,0,0,org,0,0,0,1,1,1,5,0,0,0,0,0
+http://thenextweb.com/apple/2015/05/11/apple-teams-up-with-world-wildlife-fund-to-expand-forest-conservation-in-china/,0,0,0,,6285,1,Privacy service provided by Withheld for Privacy ehf,118,1,12,0,0,com,0,0,34,1,1,1,0,1,0,0,0,0
+http://dictionary.sensagent.com/flyer/en-en/,0,0,0,,9032,1,,44,2,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.angelfire.com/art2/graphics3/index.html,0,0,0,,9865,1,"Domains By Proxy, LLC",50,3,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://facebook.com/people/Rich-Nye/100001446122712,0,0,0,,10430,1,"Meta Platforms, Inc.",51,1,1,0,0,com,0,0,0,1,1,1,4,1,0,1,1,0
+http://mylife.com/dave666e,0,0,0,,10406,1,,26,1,0,0,0,com,1,2,843,1,1,1,0,1,1,0,1,0
+http://freepages.genealogy.rootsweb.ancestry.com/~chesnay/p106.htm,0,0,0,,11113,1,Ancestry.com Operations Inc.,66,5,0,0,0,com,0,0,1,0,0,0,0,1,1,0,0,0
+http://pension-concordia.eu,0,0,0,,0,0,,27,1,1,0,0,eu,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.arclight.net/~pdb/nonfiction/uncanny-valley.html,0,0,0,,10579,1,Identity Protection Service,59,3,1,0,0,net,0,0,0,0,0,0,0,0,0,0,0,0
+http://militaryphotos.net/forums/archive/index.php/t-4059.html,0,0,0,,8397,1,,62,3,1,0,0,net,0,0,0,0,0,0,0,0,0,0,0,0
+http://gearbuyer.com/products/quiksilver_addictiv_watch.html,0,0,0,,7821,1,Identity Protection Service,60,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.gillben.com/index.html,0,0,0,,6344,1,,33,3,0,0,0,com,0,1,8,1,0,1,0,0,0,0,0,0
+http://www.softshape.com/cham/,0,0,0,,9789,1,Super Privacy Service LTD c/o Dynadot,30,2,0,0,0,com,0,0,1,0,0,0,0,0,0,0,0,0
+http://opto.com/search-clinics-optometrist.html,0,0,0,,10868,1,"Domains By Proxy, LLC",47,2,2,0,0,com,0,0,8,0,1,1,1,0,0,0,0,0
+http://www.perma.com/static.htm,0,0,0,,10851,1,,31,3,0,0,0,com,0,2,53,1,0,1,0,0,0,0,0,0
+http://sheetmusicplus.com/s?q=David+Benoit,0,0,0,,9987,1,,42,1,0,0,2,com,2,5,39,1,1,1,14,0,0,0,0,0
+http://evri.com/person/marvin-mccoy-0x529c0a,0,0,0,,8020,1,Identity Protection Service,44,1,2,0,0,com,0,0,179,1,1,1,72,0,1,0,1,0
+http://www.godboutartaporter.ca/luiza/login.php,0,0,0,,0,0,,47,3,0,0,0,ca,0,0,0,0,0,0,0,0,0,0,0,0
+http://songlyrics.com/lynyrd-skynyrd/mad-hatter-lyrics/,0,0,0,,10612,1,"Domain Protection Services, Inc.",55,1,3,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://en-gb.facebook.com/Sabriina.Coulombe,0,0,0,,10430,1,"Meta Platforms, Inc.",43,3,1,0,0,com,0,0,0,1,1,1,4,1,0,1,1,0
+http://plaxo.com/directory/R/42/41/index.html,0,0,0,,8920,1,,45,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://185.242.105.116/azji/PROFOMA_INVOICEEUR9039docs.zip,0,0,0,,0,0,,58,4,0,1,0,116,0,0,0,0,0,0,0,0,0,0,0,0
+http://scribd.com/doc/7056611/Calculated1BetscomputersgamblingandMathematical,0,0,0,,6963,1,"Scribd, Inc.",77,1,0,0,0,com,1,1,116,1,1,1,0,1,1,1,1,0
+http://entrepreneur.com/author/1769,0,0,0,,11330,1,"Domains By Proxy, LLC",35,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://ticketmaster.com/browse?category=830&root=10004,0,0,0,,11608,1,,54,1,0,0,4,com,2,0,41,1,1,1,0,1,1,1,0,0
+http://barhampacking.com.au/definitions/weZla/logs.htm,0,0,0,,0,0,,54,3,0,0,0,au,0,0,0,0,0,0,0,0,0,0,0,0
+http://silverstartransportation.com/,0,0,0,,3131,1,"Domains By Proxy, LLC",36,1,0,0,0,com,1,5,27,1,1,1,0,0,0,0,0,0
+http://veromi.com/M-G-Fortier.aspx,0,0,0,,7434,1,"Domains By Proxy, LLC",34,2,2,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://1900-1985.com/,0,0,0,,0,0,,21,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.deliaclaudio.it/x.txt,0,0,0,,7026,1,,32,3,0,0,0,it,0,0,2,0,0,0,0,0,0,0,0,0
+http://homefinder.com/TN/Selmer/,0,0,0,,11187,1,,32,1,0,0,0,com,0,1,28,1,1,1,0,1,1,0,0,0
+http://metrodemontreal.com/blue/cotedesneiges/,0,0,0,,8914,1,Privacy service provided by Withheld for Privacy ehf,46,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://buzzle.com/articles/sampaguita-flower-meaning.html,0,0,0,,9615,1,REDACTED FOR PRIVACY,57,2,2,0,0,com,1,3,0,0,1,1,0,0,0,0,0,0
+http://negomatisma.com/tmp/ww3.update.de=session-Twbp7zjxg1amhln96922/servers.update.de/cmd_login=e67fyd382ghavsr/11032/cmd=_home&country_lang.x=true/date=20120702/websrc.html?cmd=_login-run,0,0,0,,0,0,,190,7,2,0,8,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.kretingosmuziejus.lt/component/aicontactsafe/index.html,0,0,0,,6689,1,,66,3,0,0,0,lt,0,1,5,1,0,1,0,0,0,0,0,0
+http://'essei.cn/js/?us.battle.net/login/en/?ref=http\%3A\%2F\%2Fus.battle.net\%2Fd3\%2Fen\%2Findex&amp;app=com-d3',0,0,0,,0,0,,115,5,1,0,11,cn,0,0,0,0,0,0,0,0,0,0,0,0
+http://silicoglobal.com,0,0,0,,9096,1,,23,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://grahamyvesroberts.com/,0,0,0,,318,1,Super Privacy Service LTD c/o Dynadot,29,1,0,0,0,com,0,0,1,1,0,0,0,0,0,0,0,0
+http://keywen.com/en/OKINAWA,0,0,0,,8399,1,,28,1,0,0,0,com,2,3,54,0,1,0,0,0,0,0,0,0
+http://sourceforge.net/projects/gherkin/,0,0,0,,9568,1,"Domains By Proxy, LLC",40,1,0,0,0,net,0,5,14,1,1,1,1,1,1,1,1,0
+http://techcrunch.com/2015/05/11/mosaic-offers-color-3d-printing-using-an-ingenious-automatic-mixing-system/,0,0,0,,7434,1,"TechCrunch Media, LLC",108,1,10,0,0,com,0,1,27,1,1,1,3,1,1,1,1,0
+http://facebook.com/people/Zelda-Harris/1162239748,0,0,0,,10430,1,"Meta Platforms, Inc.",50,1,1,0,0,com,0,0,0,1,1,1,4,1,0,1,1,0
+http://mlive.com/lions/index.ssf/2010/12/lions_qa_defensive_lineman_cor.html,0,0,0,,10546,1,,76,3,0,0,0,com,0,0,87,1,1,1,0,0,0,1,0,0
+http://grantland.com/the-triangle/russ-and-diamonds-westbrook-isnt-the-mvp-and-thats-perfectly-ok/,0,0,0,,10355,1,,98,1,11,0,0,com,0,1,18,1,1,0,0,1,1,0,0,0
+http://westislandgazette.com/news/21379,0,0,0,,6457,1,Postmedia Network Inc.,39,1,0,0,0,com,0,2,35,1,1,1,16,1,1,1,1,0
+http://christopher-evan-hearne.suite101.com/wokai-a-chinabased-microfinance-ngo-a110715,0,0,0,,10715,1,"Domains By Proxy, LLC",87,2,7,0,0,com,0,3,202,0,1,1,1,0,0,0,0,0
+http://article.wn.com/view/2011/11/18/Rajpal_and_Ignace_Tirkey_omitted/,0,0,0,,11167,1,World News Pte Ltd,71,2,0,0,0,com,1,2,103,1,1,1,1,1,0,0,0,0
+http://wiki.answers.com/Q/Who_were_the_prime_ministers_of_Quebec_by_oldest_to_current,0,0,0,,10743,1,"Whois Privacy Protection Service, Inc.",85,2,0,0,0,com,1,1,54,1,1,1,9,1,1,1,0,0
+http://www.tea-india.org/spictex/default.htm,0,0,0,,8457,1,,44,3,1,0,0,org,0,0,0,0,0,1,0,0,0,0,0,0
+http://meetup.com/skeptics-128/,0,0,0,,9921,1,"Meetup, Inc.",31,1,1,0,0,com,1,1,77,1,1,0,4,1,1,1,1,0
+http://musicstack.com/album/king_crimson/absent_lovers,0,0,0,,10209,1,DATA REDACTED,54,1,0,0,0,com,0,0,1,0,0,0,0,1,1,0,1,0
+http://steamcommunity.com/id/the_king_of_the_kings/recommended/440/%22http://steamcommunity.com/discussions/%22,0,0,0,,7083,1,Valve Corporation,111,2,0,0,2,com,0,0,33,1,1,1,1,0,1,1,0,0
+http://sturdeephotography.com/bluadmin/colors/sf/sf/u.php,0,0,0,,6567,1,,57,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://johnreade.com/,0,0,0,,5461,1,Proxy Protection LLC,21,1,0,0,0,com,0,0,6,0,0,1,0,0,0,0,0,0
+http://silkrugsguide.co.uk,0,0,0,,0,0,,26,2,0,0,0,uk,0,0,0,0,0,0,0,0,0,0,0,0
+http://advonationusa.com/wp-image/1/customer_center/customer-IDPP00C457/myaccount/index.php?cmd=login_submit&amp;id=ced556037758b3ec347f180d9240cb63ced556037758b3ec347f180d9240cb63&amp;session=ced556037758b3ec347f180d9240cb63ced556037758b3ec347f180d9240cb63,0,0,0,,0,0,,257,2,2,0,6,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://rateyourbarn.com/browse.php?sort=city,0,0,0,,0,0,,44,2,0,0,2,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://livestrong.com/article/270841-king-county-parks-in-covington-washington/,0,0,0,,8498,1,,79,1,6,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://nasaspaceflight.com/2011/09/voyager-1s-great-escape-search-for-interstellar-space/,0,0,0,,7834,1,DATA REDACTED,89,1,7,0,0,com,0,0,1,0,0,0,0,0,1,0,0,0
+http://shtaweb.org/,0,0,0,,5845,1,,19,1,0,0,0,org,0,1,3,0,0,0,0,0,0,0,0,0
+http://tunein.com/radio/The-Wolf-957-s95985/15480783/ca-pub-1542925551861702/Station,0,0,0,,10762,1,Identity Protection Service,84,1,5,0,0,com,1,0,4,1,1,1,2,1,1,1,1,0
+http://kaczus.republika.pl/newscoaster,0,0,0,,9612,1,,38,2,0,0,0,pl,1,0,12,0,0,0,2,0,0,0,0,0
+http://film-tech.com/ubb/f7/t000170/p9.html,0,0,0,,9691,1,,43,2,1,0,0,com,0,1,164,1,0,1,1,0,0,0,0,0
+http://'9d345009-a-62cb3a1a-s-sites.googlegroups.com/site/stickamcomlogindo/login.html?amp\%3Battachauth=ANoY7cpYOtaUTqoGmZh1qfNkNPkt6lqztlh_eSZJSE9PDLYWWIvx9H1-ZmC3LxWTLsllX5v4kGfdBLo3YAXiJmO3ue1ZDaG22I0UGKMttF01upDGqPFxOv9MfgeTShIO1ha6hNFowPCcK7ogML3Ag1tnadOg0v-UlPQXxj-6P02H7b5WTlWrnFsbwZXHit8r9sv0Jny-6_HKWMH1G8UzQVxkO2JTh49s0g\%3D\%3D&amp\%3Battredirects=2&attachauth=ANoY7coO2Y5WM66Cm6D9IElomxIxWeAYH0FRpJ_rR3z8Fkj9YjJTp_mGNfCItN9FLpD57yTZ_L-Dak-KRbP-xR9_6jZ94DoKBae0LHMXnWJ6FFwCnYN7PSwYw7F38ZMzyV07DvnBiJ0292JX4RmMQm7ARAvfgLUEjoQduCoxxbkXS0ZHZpe_7IEaoDGyZUbFDXpCGzcxRSYArshnLVAUt6Zw1gGZjn5Q4w\%3D\%3D&attredirects=0',0,0,0,,8998,1,Google LLC,623,3,11,0,14,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://blurtit.com/q4736376.html,0,0,0,,9243,1,"Domains By Proxy, LLC",32,2,0,0,0,com,0,3,62,1,1,1,0,0,0,0,0,0
+http://51.222.0.40/bins/sh4,0,0,0,,0,0,,27,3,0,1,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+http://richfieldvillageohio.org/site.cfm/Administration/Parks-Recreation/Rentable-Facilities/Town-Hall-Pavilion.cfm,0,0,0,,8712,1,,115,3,4,0,0,org,0,0,0,0,0,0,0,0,0,1,1,0
+http://ecarnegietech.com/businesses/2060780-manasian-rougeau-llp-gregory-armand-rougeau-san-francisco-california-94104/,0,0,0,,28,1,Redacted for GDPR privacy,119,1,10,0,0,com,1,0,95,1,1,1,0,0,0,0,0,0
+http://onlineradio2.com/listen/Radio_Classique_1011,0,0,0,,0,0,,51,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://avxhome.se/music/rnr_rock_n_roll_roots/Beatles-Beginnings-Volume-Two-Quarrymen-Rock-n-roll.html,0,0,0,,3901,1,,102,2,7,0,0,se,0,3,16,1,1,0,0,1,1,0,0,0
+http://zohard.com/.well-known/pki-validation/mod/unblockverification/customer_center/customer-IDPP00C963/signin/signin.php?account_update=410ea35205cc9e1fcd677019015dec05&amp;cmd=_update-information&amp;lim_session=bb7d5d24f943b4870d7d1597f310046e489043f4,0,0,0,,4117,1,REDACTED FOR PRIVACY,255,3,4,0,6,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://'9d345009-a-62cb3a1a-s-sites.googlegroups.com/site/stickamcomlogindo/login.html?amp\%3Battredirects=2&amp;attachauth=ANoY7cpipS6tWgSGTX5rtYBiYfbqt-cQQxaXqCufvUpIg-_V6Ju7AQmXGhzVVZz4hJdPsPrv9h3uh4sLfjCMpsXGHerGb9VpI89ciz7pgPppCVC31CMK4d5oaJinEgxmb5Frd91Tkb2R1inkjlOa99Vgdum4BkmUIzwRi6u5xK7lww5zk6AuZRi5TMboRFnh8G2pVJRtX28cCQ5hpl88YBWq5ioPGh5ZNA\%3D\%3D&amp;attredirects=1',0,0,0,,8998,1,Google LLC,378,3,6,0,9,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://antenassaojose.com.br/site/index.php?option=com_content&view=category&layout=blog&id=18&Itemid=19,0,0,0,,0,0,,104,3,0,0,10,br,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.fridelab.com.br/aempresa/cadastre-se,0,0,0,,0,0,,47,3,1,0,0,br,0,0,0,0,0,0,0,0,0,0,0,0
+http://act2succeed.com/logs/umc/OUtlook%20Web%20App.html,0,0,0,,519,1,,56,2,0,0,2,com,0,0,7,1,0,0,0,0,0,0,0,0
+http://www.khd.at/index.php?option=com_rsgallery2&page=inline&id=135&Itemid=7,0,0,0,,0,0,,77,3,0,0,8,at,0,2,7,0,1,1,0,0,0,0,0,0
+http://indianexpress.com/article/good-news/khap-panchayat-comes-to-brides-rescue-bans-army-jawan-from-marriage-over-dowry-demand/,0,0,0,,8551,1,"Domains By Proxy, LLC",129,1,14,0,0,com,1,0,42,1,1,1,2,0,1,0,0,0
+http://wildcraftedcottage.com.au/Articles/Torticollis_Treated_by_Acupuncture.html,0,0,0,,0,0,,81,3,0,0,0,au,0,2,38,1,0,1,0,1,1,0,1,0
+http://genarians.com/In%20Memoriam%202007.html,0,0,0,,7452,1,"Domains By Proxy, LLC",46,2,0,0,2,com,0,0,1,0,0,1,0,0,0,0,0,0
+http://www.arjanland-kerstbomen.nl/component/mailto/index.html?tmpl=component&link=78fb504484dc91a4734689c62d90636a4b20de7b,0,0,0,,0,0,,123,3,1,0,4,nl,0,0,0,0,0,0,0,0,0,0,0,0
+http://affordablesurrogacy.com/,0,0,0,,8593,1,"Domains By Proxy, LLC",31,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://isbndb.com/d/publisher/edward_arnold.html,0,0,0,,8441,1,"Domains By Proxy, LLC",48,2,0,0,0,com,0,0,0,0,0,0,0,0,1,0,1,0
+http://articles.latimes.com/1991-10-17/sports/sp-762_1_davis-cup,0,0,0,,12729,1,NantMedia Holdings LLC,64,2,4,0,0,com,0,2,249,1,1,1,1,1,1,1,0,0
+http://tools.ietf.org/html/rfc2741,0,0,0,,11179,1,,34,2,0,0,0,org,1,2,12,0,0,0,0,1,1,1,1,0
+http://manta.com/c/mms7ty4/green-black-s-usa-inc,0,0,0,,7953,1,Identity Protection Service,48,1,4,0,0,com,0,0,0,0,0,0,0,0,1,0,1,0
+http://carfreeflag.org/partners,0,0,0,,0,0,,31,1,0,0,0,org,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.kkggx.info/page/vote.php?pid=37,0,0,0,,0,0,,42,3,0,0,2,info,0,0,0,0,0,0,0,0,0,0,0,0
+http://dricaviagens.com/wellsa/wellsa/index.htm,0,0,0,,5422,1,REDACTED FOR PRIVACY,47,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://evri.com/product/jacob-two-two-0xaf2d,0,0,0,,8020,1,Identity Protection Service,44,1,3,0,0,com,0,0,179,1,1,1,72,0,1,0,1,0
+http://www.rentmedia.com.ua/nashi-raboty/category/14-herbalife.html,0,0,0,,7177,1,,67,4,2,0,0,ua,0,0,1,0,0,0,0,1,0,0,1,0
+http://www.paypal-com.uni.me/paypal/webscr.php/,0,0,0,,5988,1,,47,4,1,0,0,me,0,0,0,0,0,0,0,0,0,0,0,0
+http://caselaw.findlaw.com/us-2nd-circuit/1082646.html,0,0,0,,10902,1,"MH Sub I, LLC dba Internet Brands",54,3,2,0,0,com,0,0,0,0,0,0,0,1,1,0,1,0
+http://imtl.org/montreal/rue_montreal.php?rue=Lartigue,0,0,0,,7487,1,,54,2,0,0,2,org,0,0,0,0,0,0,0,0,0,0,0,0
+http://acheapseat.com/american_idiot_tickets.html,0,0,0,,7402,1,Privacy service provided by Withheld for Privacy ehf,49,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://itunes.apple.com/us/album/broken-bells/id353032605,0,0,0,,14121,1,Apple Inc.,57,2,1,0,0,com,0,2,70,0,1,0,1,1,1,1,1,0
+http://pitch.com/plog/archives/2011/04/04/knife-carrying-student-gets-suspended-would-rather-get-ged-than-go-to-northeast-high-school,0,0,0,,10811,1,"Domain Protection Services, Inc.",133,1,14,0,0,com,2,2,17,1,1,0,0,1,1,0,1,0
+http://softech.com/plm-customersuccess/plm-casestudy/4/CMC_Electronics_Saves_Millions_with_ProductCenter_PLM/,0,0,0,,12196,1,"Domains By Proxy, LLC",109,1,2,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://kienthuc.net.vn/blog-kien-thuc/treo-rao-cong-vien-nuoc-goc-khuat-kech-com-nhat-o-nguoi-viet-480594.html,0,0,0,,0,0,,110,3,15,0,0,vn,0,0,7,0,0,1,0,0,0,0,0,0
+http://thenextweb.com/apps/2015/05/12/fiftythree-debuts-think-kit-toolset-for-its-paper-ipad-app/gtm.start,0,0,0,,6285,1,Privacy service provided by Withheld for Privacy ehf,106,2,9,0,0,com,0,0,17,0,1,1,0,1,0,0,0,0
+http://lafelicidaddelmundo-fran.blogspot.com/,0,0,0,,0,0,,45,2,1,0,0,com,1,0,70,1,0,1,2,0,0,0,1,0
+http://akhbarelyom.com/news/ArticleSectionList/270/1/%D8%AC%D9%85%D8%A7%D9%84-%D8%AD%D8%B3%D9%8A%D9%86.html,0,0,0,,8691,1,"Domains By Proxy, LLC",107,2,1,0,16,com,0,0,0,0,0,0,0,0,1,0,1,0
+http://zimbio.com/photos/Sheila+E,0,0,0,,7260,1,Privacy service provided by Withheld for Privacy ehf,33,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://huarui-tec.com/js/?us.battle.net/login/en/?ref=alycumaus.battle.net/d3/en/index,0,0,0,,368,1,,86,5,1,0,3,com,0,0,0,1,0,0,0,0,0,0,0,0
+http://studentsreview.com/professors/NY/Clarkson_University/,0,0,0,,9334,1,,60,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://myspace.com/frankskinner,0,0,0,,10831,1,"Domains By Proxy, LLC",31,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://sx9446f7k2.bottom.vip.aliyun-cdn.com,0,0,0,,3880,1,"Domains By Proxy, LLC",43,4,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://pktube.onepakistan.com/Liz+Hartigan/,0,0,0,,9377,1,Super Privacy Service LTD c/o Dynadot,43,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.rigsolutions.nl/index.php/fr/free-fall-leaders-,0,0,0,,6100,1,,58,3,3,0,0,nl,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.freeprogrammingresources.com/freeperl.html,0,0,0,,8554,1,"Domains By Proxy, LLC",53,3,0,0,0,com,0,2,3,0,0,0,0,0,0,0,0,0
+http://nwaris.com/vb/cielo/index.html,0,0,0,,6084,1,,37,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.xav.com/scripts/search/,0,0,0,,10501,1,DATA REDACTED,34,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://sharetv.org/networks/teletoon,0,0,0,,6861,1,,36,1,0,0,0,org,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.newtec.ac.uk/about-newtec/apply-for-a-course.html,0,0,0,,10670,1,,60,4,4,0,0,uk,0,0,0,0,0,0,0,0,0,0,0,0
+http://saddoboxing.com/tag/ali-chebah,0,0,0,,8748,1,"Domains By Proxy, LLC",37,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://familytreemaker.genealogy.com/users/b/l/a/Armand-Blanger-1/WEBSITE-0001/UHP-Index.html,0,0,0,,9752,1,Ancestry.com Operations Inc.,93,3,4,0,0,com,1,0,10,1,1,0,9,1,0,0,0,0
+http://kenh14.vn/2-tek/ban-thiet-ke-iphone-l-phong-cach-vat-an-tuong-20140223065951133.chn,0,0,0,,0,0,,90,2,11,0,0,vn,0,0,12,1,0,1,0,0,0,0,0,0
+http://energybayarea.blogspot.com/,0,0,0,,0,0,,34,2,0,0,0,com,0,0,19,1,0,1,1,0,0,0,1,0
+http://idolator.com/5463221/ciara-and-the-dream-leave-us-speechless,0,0,0,,7491,1,"Domains By Proxy, LLC",67,1,6,0,0,com,0,2,27,1,1,1,0,0,0,0,0,0
+http://facebook.com/people/Paul-Watson/1704473813,0,0,0,,10430,1,"Meta Platforms, Inc.",49,1,1,0,0,com,0,0,0,1,1,1,4,1,1,1,1,0
+http://sleepnet.com/proff.htm,0,0,0,,11141,1,,29,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://xzyy.mhedu.sh.cn/css/?secure.runescape.com/m=weblogin/loginform.ws?mod=www&amp;msadxogamp;ssl=0&amp;dest,0,0,0,,8351,1,,111,6,0,0,7,cn,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.intocht-simpelveld.nl/index.php?option=com_contact&view=contact&id=16:friture-de-markt&catid=4:onze-super-pieten&Itemid=9,0,0,0,,0,0,,132,3,5,0,10,nl,0,0,0,0,0,0,0,0,0,0,0,0
+http://brianwatts.ca/,0,0,0,,0,0,,21,1,0,0,0,ca,0,0,0,0,0,0,0,0,0,0,0,0
+http://videos.mitrasites.com/sandra-ceccarelli.html,0,0,0,,1948,1,PrivacyGuardian.org llc,51,3,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://abebooks.com/books/underdog-charlie-brown-snoopy-peanuts/literary-losers.shtml,0,0,0,,10891,1,,85,2,5,0,0,com,0,4,43,1,1,1,0,1,1,0,1,0
+http://www.beidou7.com/hr/index.htm?us.battle.net/login/en/?ref=xtvxcueus.battle.net/d3/en/index&amp;app=com-d3,0,0,0,,7982,1,REDACTED FOR PRIVACY,111,7,1,0,5,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://zoominfo.com/people/Ramsay_Bruce_305043975.aspx,0,0,0,,8037,1,ZoomInfo Technologies Inc,54,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://smilelocal.com/garage_services_repairs_mechanics_and_equipment/argyll_and_bute,0,0,0,,3041,1,"Domains By Proxy, LLC",85,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+https://www.pcloud.com/track?url=aHR0cHM6Ly9teS5wY2xvdWQuY29tL3B1Ymxpbmsvc2hvdz9jb2RlPVhaa0hQQ2tack1Ya1pnYzJkQlFSdnpzRjh6dkI5UlBxRmdWYlNVQVlY&token=j7yZZ7ZQkZrwc0kENluc4wtObKMPkdF8xn5b07,0,0,0,,6519,1,pCloud International AG,186,2,0,0,4,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://reviewonline.com/page/content.detail/id/546618/Robert-B--Williams-Sr---81.html?nav=5009,0,0,0,,10687,1,"Domains By Proxy, LLC",94,3,7,0,2,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.speyerseminar.de/cms/index.php?option=com_docman&task=cat_view&gid=52&Itemid=100,0,0,0,,0,0,,91,3,0,0,8,de,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.trilithon.com/pagesproducts/postscriptcode.html,0,0,0,,11238,1,"Domains By Proxy, LLC",58,3,0,0,0,com,0,0,0,0,1,1,0,1,0,0,0,0
+http://contactmusic.com/pictures/rose_elinor_dougall/1-1,0,0,0,,9401,1,REDACTED FOR PRIVACY,56,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://en.wikipedia.org/wiki/MCA/Universal_Home_Video,0,0,0,,9044,1,,53,2,0,0,0,org,0,2,61,1,1,1,0,1,0,0,1,0
+http://www.abertosp.com/index.php?option=com_content&view=category&layout=blog&id=29&Itemid=62,0,0,0,,0,0,,94,3,0,0,10,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://imdb.com/name/nm0085316/,0,0,0,,10879,1,"IMDb.com, Inc.",31,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://custom-essay.net/essay-encyclopedia/Canadian-Essay-french.htm,0,0,0,,7486,1,Privacy service provided by Withheld for Privacy ehf,68,2,4,0,0,net,0,0,1,0,0,0,0,0,0,1,0,0
+http://dcnonl.com/nw/25614,0,0,0,,10213,1,"Domains By Proxy, LLC",26,1,0,0,0,com,1,2,126,1,0,1,2,0,1,1,1,0
+http://beenverified.com/p/larry+tatum,0,0,0,,6881,1,"Domains By Proxy, LLC",37,1,0,0,0,com,1,2,114,1,1,1,9,1,1,0,1,0
+http://www.norzwebmarketing.com/it/search-engine-marketing/keyword-advertising/132--search-engine-listing-,0,0,0,,6321,1,,106,2,8,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://olx.ua/uk/list/q-%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4/gtm.js,0,0,0,,4615,1,,85,2,1,0,18,ua,0,1,20,1,1,1,14,1,1,1,1,0
+http://dorsey.com/lancaster_peter/,0,0,0,,11224,1,,34,1,0,0,0,com,0,0,1,0,0,0,0,0,1,0,0,0
+http://banyan.hotelmass.com/,0,0,0,,1007,1,NameBrightPrivacy.com,28,2,0,0,0,com,0,0,1,0,0,0,0,0,0,0,0,0
+http://alphadeltagamma.org/,0,0,0,,10073,1,,27,1,0,0,0,org,0,0,57,1,1,1,9,1,0,0,1,0
+https://web-net-pg.joomla.com/div/br/netflix/index.php?n=raybvu7irayb-fhcn-raybfhcnfhcn-b62kfhcn&amp;q=raybvu7irayb-fhcn-raybfhcnfhcn-b62kfhcn&amp;s=raybvu7irayb-fhcn-raybfhcnfhcn-b62kfhcn,0,0,0,,7362,1,"Domains By Proxy, LLC",188,3,11,0,6,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://icicibank.com/privilege-banking/personal/Mutual-Funds.page?utm_source=mutual-funds&utm_medium=text&utm_campaign=PB-flyout,0,0,0,,10686,1,,128,2,4,0,6,com,0,1,105,1,1,1,0,1,1,1,1,0
+http://www.bikepainter.com/Aolimages.html,0,0,0,,662,1,AdExperts.ca,41,3,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://thefranklloydwrighttour.com/apps/blog/show/5623239-harry-goodrich-house-frank-lloyd-wright-1896,0,0,0,,1345,1,Edoms LLC,102,1,7,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://americanidiottickets.net/,0,0,0,,0,0,,32,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,0
+http://wakeupandlives.net/,0,0,0,,0,0,,26,1,0,0,0,net,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.scripophily.net/vivun.html,0,0,0,,9982,1,REDACTED FOR PRIVACY,37,3,0,0,0,net,0,0,0,0,0,0,0,0,1,0,1,0
+http://isnare.com/?aid=281142&ca=Advice,0,0,0,,1802,1,REDACTED FOR PRIVACY,39,1,0,0,4,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://corporationwiki.com/Florida/Lighthouse-Point/zella-lehr-productions-inc-2340367.aspx,0,0,0,,6590,1,"Domains By Proxy, LLC",91,2,5,0,0,com,0,0,0,0,0,0,0,0,1,0,1,0
+http://mylife.com/c-2324403987,0,0,0,,10406,1,,30,1,1,0,0,com,2,2,60,1,1,1,0,0,0,0,0,0
+http://a25.com/index.php?section=images&langue=EN,0,0,0,,9805,1,,49,2,0,0,4,com,1,0,11,1,0,0,0,0,0,0,0,0
+http://www.paypal-financial.de/94228/index.php,0,0,0,,0,0,,46,3,1,0,0,de,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.neesonmurcutt.com/public/sydney-2030.html,0,0,0,,6814,1,REDACTED FOR PRIVACY,52,3,1,0,0,com,0,0,5,1,0,1,0,0,0,0,0,0
+http://www.sjgames.com/pyramid/sample.html?id=1076,0,0,0,,11370,1,REDACTED FOR PRIVACY,50,3,0,0,2,com,0,0,7,0,0,1,0,0,0,0,0,0
+http://www.lysator.liu.se/fsh/,0,0,0,,14115,1,,30,3,0,0,0,se,0,0,18,1,0,0,0,0,0,0,0,0
+http://spokeo.com/Charles+Blanding,0,0,0,,7136,1,REDACTED FOR PRIVACY,34,1,0,0,0,com,0,3,9,1,1,1,12,1,1,0,1,0
+http://brilliant-accountants.co.uk/brili/confrom.htm?source=login&sitedomain=sns.www.PayPal.com.com&lang=en&seamless=novl&offerId=newmail-en-us-v2&authLev=0&siteState50d7ddd3b508eb215bf696eccd413a3d50d7ddd3b508eb215bf696eccd413a3d,0,0,0,,3795,1,,230,7,4,0,13,uk,0,0,17,1,1,1,0,1,1,0,1,0
+http://21twentyone.net/index.php?option=com_content&view=article&id=62&Itemid=143,0,0,0,,1927,1,"Domains By Proxy, LLC",81,2,0,0,8,net,0,0,0,0,0,0,0,0,0,0,0,0
+http://peopleofwalmart.com/19222,0,0,0,,5920,1,WHOIS IDCPrivacy Service c/o Integrated Data Communications Limited,32,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://thenextweb.com/insider/2015/05/12/watch-now-where-digital-disruption-will-lead-us/,0,0,0,,6285,1,Privacy service provided by Withheld for Privacy ehf,89,1,7,0,0,com,0,0,34,1,1,1,0,1,0,0,0,0
+http://china-embassy.org/eng/,0,0,0,,10844,1,,29,1,1,0,0,org,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.enete.com/download/#_nuggets_,0,0,0,,10914,1,,40,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://youtube.com/watch?v=bw6BcGa5mWE,0,0,0,,7550,1,Google LLC,38,1,0,0,2,com,0,0,8,1,1,1,2,1,1,1,1,0
+http://normanchamber.com/,0,0,0,,7878,1,"Domains By Proxy, LLC",25,1,0,0,0,com,0,0,58,1,0,1,0,1,0,0,0,0
+http://www.businessweek.com/rss/bwdaily.rss,0,0,0,,11222,1,,43,3,0,0,0,com,0,0,0,0,0,0,0,1,1,1,1,0
+http://www.jackhatfield.co.uk/index.php?option=com_jevents&task=day.listevents&year=2013&month=02&day=04&Itemid=32,0,0,0,,0,0,,114,5,0,0,12,uk,0,0,0,0,0,0,0,0,0,0,0,0
+http://casino-slotmachines.com/vip-slots/vip-slots.html,0,0,0,,5962,1,Strop Proxy AB,55,2,3,0,0,com,0,0,0,0,0,0,0,1,1,0,1,0
+http://www.inksplash.ie/index.php/Window-Graphics-Frosting,0,0,0,,5546,1,,58,3,2,0,0,ie,0,0,0,0,0,0,0,0,0,0,0,0
+http://pgindianmarket.com/,0,0,0,,0,0,,26,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://thai-liveaboard.com/images/thailiveaboard/dive_boats/panunee_1.jpg,0,0,0,,0,0,,73,2,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.schoolsintjozef.be/index.html,0,0,0,,0,0,,40,3,0,0,0,be,0,0,0,0,0,0,0,0,0,0,0,0
+http://schools-wikipedia.org/wp/c/Columbus%252C_Ohio.htm,0,0,0,,6735,1,,56,2,1,0,1,org,0,0,0,0,0,0,0,0,0,0,0,0
+http://canada.com/life/astrology/aquarius/Hurricane+Katia+intensifies+over+open+Atlantic/5352550/story.html?id=5352550,0,0,0,,10622,1,Postmedia Network Inc.,118,2,0,0,2,com,0,3,20,1,1,1,0,0,1,1,1,0
+http://www.unikate-von-alexa.de/index.php?option=com_phocagallery&view=detail&catid=1:schmuck&id=173:meteorit-006&phocaslideshow=1&tmpl=component&Itemid=8,0,0,0,,0,0,,154,3,3,0,14,de,0,0,0,0,0,0,0,0,0,0,0,0
+http://www-battleq.tk/cert,0,0,0,,0,0,,26,1,1,0,0,tk,0,0,0,0,0,0,0,0,0,0,0,0
+http://uk.eurosport.yahoo.com/football/league-one/2011-2012/tranmere-rovers-chesterfield-455633.html,0,0,0,,11231,1,Yahoo Assets LLC,100,4,5,0,0,com,0,0,0,0,0,0,0,1,0,0,1,0
+http://deriair.com.au/index.php?page=shop.product_details&category_id=13&flypage=flypage.tpl&product_id=40&option=com_virtuemart&Itemid=64,0,0,0,,0,0,,138,5,0,0,12,au,0,0,0,0,0,0,0,0,0,0,0,0
+http://buffalo.craigslist.org/atq/2671698722.html,0,0,0,,10264,1,,49,3,0,0,0,org,0,0,10,0,1,0,0,1,1,1,0,0
+http://movies.about.com/b/2011/05/10/focus-acquires-seeking-a-friend-for-the-end-of-the-world-with-steve-carell.htm,0,0,0,,9717,1,Dotdash Media Inc.,115,3,13,0,0,com,2,1,131,1,1,1,0,1,0,1,1,0
+http://motthegioi.vn/thethao/bongda/khong-sieu-nhan-ronaldo-real-cung-khong-lo-tan-the-188036.html,0,0,0,,0,0,,98,2,10,0,0,vn,0,5,6,1,0,0,0,0,0,0,0,0
+http://www.rjlsoftware.com/software/desktop/anyimage/,0,0,0,,9782,1,DATA REDACTED,53,2,0,0,0,com,0,0,0,0,0,1,1,0,0,0,1,0
+http://club100witbank.blogspot.com/,0,0,0,,0,0,,35,2,0,0,0,com,0,0,103,1,0,1,1,0,0,0,1,0
+http://contactmusic.com/pictures/joie_lee/1-1,0,0,0,,9401,1,REDACTED FOR PRIVACY,45,1,1,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.mueblesjoval.cl/index.php?option=com_simplelists&view=simplelist&layout=picture&category_id=6&Itemid=10,0,0,0,,8081,1,,114,3,0,0,10,cl,0,0,0,0,0,0,0,0,0,0,0,0
+http://footscray.vic.edu.au/,0,0,0,,0,0,,28,3,0,0,0,au,0,0,23,1,1,1,0,1,1,0,1,0
+http://dcn.transylvaniacounty.org/dcn/inmateGrid.aspx,0,0,0,,8620,1,,53,3,0,0,0,org,0,0,0,0,0,1,0,1,1,1,1,0
+http://drive-google-com.fanalav.com/ff0daef53c6fa71ec74928e02dd75cd9/,0,0,0,,0,0,,69,2,2,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://esask.uregina.ca/entry/haultain_frederick_1857-1942.html,0,0,0,,9129,1,,63,3,1,0,0,ca,0,0,7,0,0,1,1,1,0,0,0,0
+http://seminaryscholarships.org/,0,0,0,,5195,1,,32,1,0,0,0,org,0,0,0,0,0,0,0,0,0,0,0,0
+http://publicrecords.com/people-search-records/joel-greenberg,0,0,0,,10546,1,,61,1,3,0,0,com,0,0,8,1,1,1,0,0,0,0,0,0
+http://allegro.pl/listing/listing.php?bmatch=seng-v10-p-sm-pers-isqm-chl-moda-0414&id=20585&order=m&string=%7Bstring%7D,0,0,0,,9487,1,,119,2,8,0,10,pl,0,0,0,0,0,0,0,1,1,0,0,0
+http://enginsite.com/Perl.htm,0,0,0,,7835,1,REDACTED FOR PRIVACY,29,2,0,0,0,com,0,1,13,0,1,1,0,0,0,0,0,0
+http://en.wikipedia.org/wiki/Cardiac_Arrest_(TV_series),0,0,0,,9044,1,,55,2,0,0,0,org,0,2,35,1,1,1,3,1,0,0,1,0
+http://wday.com/event/article/id/49026/,0,0,0,,10595,1,"Domains By Proxy, LLC",39,1,0,0,0,com,0,2,26,1,1,1,1,1,1,1,1,0
+http://store.livenation.com/,0,0,0,,7960,1,,28,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://'www.nbyixing.com/pro/?us.battle.net/login/en/?ref=http\%3A\%2F\%2Fus.battle.net\%2Fd3\%2Fen\%2Findex&amp;amp;app=com-d3',0,0,0,,58,1,,128,6,1,0,11,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://electricenergyonline.com/?page=show_news&id=117889,0,0,0,,9149,1,REDACTED FOR PRIVACY,57,1,0,0,4,com,0,2,6,1,1,1,1,0,0,0,0,0
+http://spoke.com/info/p30xXsx/StephaniePottruck,0,0,0,,10540,1,"Domains By Proxy, LLC",47,1,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.food-nrw.de/index.php/cluster-basisdaten?tmpl=component&print=1&page=,0,0,0,,0,0,,80,3,2,0,6,de,0,0,59,0,1,1,0,1,1,0,1,0
+http://bdnews24.com/bangladesh/2015/05/12/passengers-jump-from-train-as-it-skips-scheduled-stop,0,0,0,,7721,1,,95,1,8,0,0,com,0,0,1,0,0,0,0,0,1,0,0,0
+http://drive.chelae.com,0,0,0,,2267,1,HugeDomains.com,23,2,0,0,0,com,1,3,54,1,1,1,1,0,0,0,0,0
+http://toonaroona.com,0,0,0,,6322,1,"Domain Protection Services, Inc.",21,1,0,0,0,com,0,1,1,0,0,0,0,1,1,0,1,0
+http://itunes.apple.com/us/app/eco-punk/id351348506?mt=8,0,0,0,,14121,1,Apple Inc.,56,2,1,0,2,com,0,0,4,1,1,1,0,1,1,1,1,0
+http://answers.ask.com/Entertainment/Music/who_killed_mac_dre,0,0,0,,9860,1,Ask.com,61,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.ringsurf.com/ring/digitalring/,0,0,0,,9923,1,REDACTED FOR PRIVACY,41,2,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://www.hp.com/sbso/index.html,0,0,0,,14474,1,HP Inc.,33,3,0,0,0,com,0,0,0,0,0,0,0,0,0,0,0,0
+http://reuters.com/finance/stocks/companyOfficers?symbol=CBSH.O,0,0,0,,11825,1,Thomson Reuters Enterprise Centre GmbH,63,2,0,0,2,com,0,0,0,0,0,0,0,0,0,1,0,0
+http://divxturka.net/mkv-mp4-rmvb-movies/1092639-iron-man-2008-500-mb-1280-x-528-720p.html,0,0,0,,6638,1,"Domains By Proxy, LLC",90,2,12,0,0,net,0,0,0,0,0,1,0,0,0,0,0,0
