@@ -1,72 +1,45 @@
-# Website Security Classifier
+🛡️ Website Security Classifier
 
-A Python-based Machine Learning project to classify websites as SAFE or MALICIOUS using domain, SSL, WHOIS, and HTML features. Built with a Random Forest model and designed for easy testing of any URL.
+A Python-based Machine Learning project that classifies websites as SAFE or MALICIOUS using domain, SSL, WHOIS, and HTML-based features.
+Built with a Random Forest model, this tool enables easy testing and dataset generation for any URL.
 
----
+⚙️ Features
+🌐 HTTPS & SSL validation
+🕒 Domain age and WHOIS details
+🧩 URL structure & TLD analysis
+🧠 HTML elements (iframes, forms, external links)
+🔑 Keyword detection (login, privacy policy, contact)
+🧾 Security headers: HSTS, CSP, X-Frame-Options, etc.
 
-## Features
+Target column: secure_label
+1 → SAFE
+0 → MALICIOUS
 
-The classifier uses the following features for each website:
+📊 Dataset
+1000 total websites (500 ✅ safe + 500 ❌ malicious)
+Safe sites were taken from top-ranked domains
+Malicious ones came from phishing/malware datasets
+Each of the 500 websites was scraped and analyzed to extract live SSL, WHOIS, and HTML features
 
-* HTTPS presence
-* SSL validity and expiry
-* Domain age and WHOIS information
-* URL structure details
-* Top-level domain type
-* HTML elements such as iframes, forms, and external links
-* Presence of login, privacy policy, and contact keywords
-* Number of suspicious keywords in content
-* Security headers like HSTS, X-Frame-Options, CSP, and X-Content-Type-Options
+🔧 How Data is Generated
+extractor.py → Extracts security features from a single website
+scrappy.py → Uses extractor.py + urls_to_scan.txt (list of sites) to automatically scrape multiple websites and generate a dataset file (website_security_dataset.csv)
 
-The target column is `secure_label`:
+🧰 Installation
+Install all required packages:
+pip install flask flask-cors pandas tqdm joblib requests beautifulsoup4 python-whois scikit-learn
 
-* 1 → SAFE
-* 0 → MALICIOUS
+If python-whois fails:
+pip install whois
 
----
+🚀 Usage
+Train and test the Random Forest classifier
+Predict whether a given URL is safe or malicious
+View model confidence and accuracy metrics
 
-## Dataset
+🌐 Example URLs
 
-* Contains features for 1000 websites (500 safe + 500 malicious)
-* Safe websites are collected from top-ranked sites, and malicious websites are collected from phishing/malicious datasets
+Safe: google.com, wikipedia.org, github.com
+Malicious: fakebank-login.com, phishingsite-example.com
 
----
-
-## Installation
-# run this in your terminal to install necessary modules - pip install flask flask-cors pandas tqdm joblib requests beautifulsoup4 python-whois scikit-learn
-# if python-whois doesn't works then run - pip install whois 
-
-* Install required Python packages such as pandas, scikit-learn, joblib, requests, BeautifulSoup, python-whois, tldextract, and tqdm
-* The project can be run locally or on Google Colab
-
-
----
-
-## Usage
-
-The project allows users to:
-
-* Train a Random Forest model on the dataset
-* Evaluate the model’s accuracy and performance
-* Predict whether a given URL is safe or malicious
-* View the model’s confidence in its predictions
-
----
-
-## Example Websites to Test
-
-**SAFE websites:**
-
-* google.com
-* wikipedia.org
-* github.com
-
-**MALICIOUS / PHISHING websites:**
-
-* fakebank-login.com
-* phishingsite-example.com
-
----
-
-If you liked this idea, upvotes will be appreciated :)
-======
+⭐ If you liked this project, a star on GitHub would be appreciated!
